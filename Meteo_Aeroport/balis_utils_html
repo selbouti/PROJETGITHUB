@@ -1,4 +1,4 @@
-site meteobleu :
+site meteobleu : on utilise le module beautifulsoupe et requests et datetime
 	url = https://www.meteobleu.com/fr/meteo/semain/{site_aeroport}?day={number}
 	
 	Balises HTML :	
@@ -12,7 +12,7 @@ site meteobleu :
 			<div class = "wind">vitesse vent
 				<span> direction du vent
 			<div class = "tab-sun"> heure d'ensoliellement
-site metar-taf :
+site metar-taf : en utilise le module re et requests et beautifulsoupe
 	url = https://metar-taf.com/fr?c=465068.17139.6&hl={code_aeroport}
 	
 	Balises HTML :
@@ -23,7 +23,7 @@ site metar-taf :
 		#Temperature
 		(\d+ °C)
 		#Visibilite
-		(\d+ km)</h3>
+		<h3 classe="mb-0">(\d+ km)</h3>
 		#vitesse / direction vent
 		<h3 classe="mb-0">(\d+ kt)<h3>
 		(\d{3}°)

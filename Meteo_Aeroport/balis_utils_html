@@ -1,5 +1,8 @@
 site meteobleu :
-	url = 'https://www.meteobleu.com/fr/meteo/semain/{site_aeroport}?day={number}'
+	url = https://www.meteobleu.com/fr/meteo/semain/{site_aeroport}?day={number}
+	
+	Balises HTML :	
+
 	<div id ="day X">
 		<div class = "tab-content">
 			<div class = "img">
@@ -9,3 +12,23 @@ site meteobleu :
 			<div class = "wind">vitesse vent
 				<span> direction du vent
 			<div class = "tab-sun"> heure d'ensoliellement
+site metar-taf :
+	url = https://metar-taf.com/fr?c=465068.17139.6&hl={code_aeroport}
+	
+	Balises HTML :
+
+	<div id = "metar">
+		#Nom aeroport
+		<h1 class="h4 mb-0 test-ellipsis">(.+?)</h1>
+		#Temperature
+		(\d+ °C)
+		#Visibilite
+		(\d+ km)</h3>
+		#vitesse / direction vent
+		<h3 classe="mb-0">(\d+ kt)<h3>
+		(\d{3}°)
+		#Altitude nuage
+		<h3 class="mb-0">(\d+ ft)</h3>
+		#Pression atmo
+		<h3 class="mb-0">(\d+ hPa)</h3>
+			

@@ -1,0 +1,11 @@
+site meteobleu :
+	url = 'https://www.meteobleu.com/fr/meteo/semain/{site_aeroport}?day={number}'
+	<div id ="day X">
+		<div class = "tab-content">
+			<div class = "img">
+			<div class = "tab-temps-max"> temperature maximal
+			<div class = "tab-temps-min"> temperature minimal
+			<div class = "tab-precip"> precipation
+			<div class = "wind">vitesse vent
+				<span> direction du vent
+			<div class = "tab-sun"> heure d'ensoliellement

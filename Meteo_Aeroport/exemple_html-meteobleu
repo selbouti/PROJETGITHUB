@@ -1,0 +1,2844 @@
+
+
+<!DOCTYPE html>
+<html lang="fr">
+
+    
+    <head prefix="og: http://ogp.me/ns# fb: http://opg.me/ns/fb# place: http://ogp.me/ns/place#">
+    
+
+<script>
+window.dataLayer = window.dataLayer || [];
+
+/* https://developers.google.com/tag-platform/tag-manager/datalayer */
+dataLayer.push({
+  'pagePath': '/weather/week/index',
+  'visitorType': 'visitor',
+  'language': 'fr'
+});
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NCD5HRF');</script>
+<!-- End Google Tag Manager -->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+            <meta name="description" content="Les prévisions météo professionnelles pour Aéroport international d&#039;Angoulême - Cognac. Radar de précipitations, images satellite HD et les alertes météo actuelles, la température horaire, la probabilité de pluie et les heures d&#039;ensoleillement.">
+    
+    
+    <link rel="stylesheet" type="text/css" href="https://static.meteoblue.com/build/website.666/styles/main.css" />
+<link rel="stylesheet" type="text/css" href="https://static.meteoblue.com/build/website.666/styles/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="https://static.meteoblue.com/build/website.666/styles/homepage.css" />
+
+    
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    
+    <meta name="image" content="https://static.meteoblue.com/assets/images/logo/meteoblue_tile_large.png">
+
+
+
+
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="icon" sizes="192x192" href="https://static.meteoblue.com/assets/images/logo/launcher-icon-4x.png">
+
+
+<meta name="application-name" content="meteoblue"/>
+<meta name="msapplication-TileColor" content="#144866"/>
+<meta name="msapplication-square70x70logo" content="https://static.meteoblue.com/assets/images/logo/meteoblue_tile_small.png"/>
+<meta name="msapplication-square150x150logo" content="https://static.meteoblue.com/assets/images/logo/meteoblue_tile_medium.png"/>
+<meta name="msapplication-wide310x150logo" content="https://static.meteoblue.com/assets/images/logo/meteoblue_tile_wide.png"/>
+<meta name="msapplication-square310x310logo" content="https://static.meteoblue.com/assets/images/logo/meteoblue_tile_large.png"/>
+<meta name="theme-color" content="#144866">
+
+
+<meta property="og:title" content="Météo Aéroport international d&#039;Angoulême - Cognac - meteoblue">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://static.meteoblue.com/assets/images/logo/meteoblue_tile_large.png">
+<meta property="og:url" content="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763">
+<meta property="og:description"
+      content="Les prévisions météo professionnelles pour Aéroport international d&#039;Angoulême - Cognac. Radar de précipitations, images satellite HD et les alertes météo actuelles, la température horaire, la probabilité de pluie et les heures d&#039;ensoleillement.">
+<meta property="og:site_name" content="meteoblue">
+<meta property="og:locale" content="fr_FR">
+    <meta property="place:location:latitude" content="45.729">
+    <meta property="place:location:longitude" content="0.219">
+    <meta property="place:location:altitude" content="132">
+
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://static.meteoblue.com/assets/images/logo/meteoblue_tile_large.png">
+<meta name="twitter:site" content="@meteoblue">
+<meta name="twitter:creator" content="@meteoblue">
+<meta name="twitter:title"   content="Météo Aéroport international d&#039;Angoulême - Cognac - meteoblue">
+<meta name="twitter:description"
+      content="Les prévisions météo professionnelles pour Aéroport international d&#039;Angoulême - Cognac. Radar de précipitations, images satellite HD et les alertes météo actuelles, la température horaire, la probabilité de pluie et les heures d&#039;ensoleillement.">
+
+<meta name="twitter:app:name:iphone" content="meteoblue">
+<meta name="twitter:app:id:iphone" content="994459137">
+
+
+
+<link rel="canonical" href="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763"/>
+    <link rel="alternate" hreflang="ar" href="https://www.meteoblue.com/ar/weather/week/angoul%c3%aame-%e2%80%93-cognac-international-airport_%d9%81%d8%b1%d9%86%d8%b3%d8%a7_6694763"/>
+    <link rel="alternate" hreflang="bg" href="https://www.meteoblue.com/bg/%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D1%82%D0%BE/%D1%81%D0%B5%D0%B4%D0%BC%D0%B8%D1%86%D0%B0/angoul%c3%aame-%e2%80%93-cognac-international-airport_%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d1%8f_6694763"/>
+    <link rel="alternate" hreflang="cs" href="https://www.meteoblue.com/cs/po%C4%8Das%C3%AD/t%C3%BDden/angoul%c3%aame-%e2%80%93-cognac-international-airport_francie_6694763"/>
+    <link rel="alternate" hreflang="de" href="https://www.meteoblue.com/de/wetter/woche/flughafen-angoul%c3%aame-cognac_frankreich_6694763"/>
+    <link rel="alternate" hreflang="el" href="https://www.meteoblue.com/el/%CE%BA%CE%B1%CE%B9%CF%81%CF%8C%CF%82/%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1/angoul%c3%aame-%e2%80%93-cognac-international-airport_%ce%93%ce%b1%ce%bb%ce%bb%ce%af%ce%b1_6694763"/>
+    <link rel="alternate" hreflang="en" href="https://www.meteoblue.com/en/weather/week/angoul%c3%aame-%e2%80%93-cognac-international-airport_france_6694763"/>
+    <link rel="alternate" hreflang="es" href="https://www.meteoblue.com/es/tiempo/semana/angoul%c3%aame-%e2%80%93-cognac-international-airport_francia_6694763"/>
+    <link rel="alternate" hreflang="fr" href="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763"/>
+    <link rel="alternate" hreflang="hr" href="https://www.meteoblue.com/hr/weather/week/angoul%c3%aame-%e2%80%93-cognac-international-airport_republic-of-france_6694763"/>
+    <link rel="alternate" hreflang="hu" href="https://www.meteoblue.com/hu/id%C5%91j%C3%A1r%C3%A1s/h%C3%A9t/angoul%c3%aame-%e2%80%93-brie-%e2%80%93-champniers-rep%c3%bcl%c5%91t%c3%a9r_franciaorsz%c3%a1g_6694763"/>
+    <link rel="alternate" hreflang="it" href="https://www.meteoblue.com/it/tempo/settimana/angoul%c3%aame-%e2%80%93-cognac-international-airport_francia_6694763"/>
+    <link rel="alternate" hreflang="ka" href="https://www.meteoblue.com/ka/%E1%83%90%E1%83%9B%E1%83%98%E1%83%9C%E1%83%93%E1%83%98/%E1%83%99%E1%83%95%E1%83%98%E1%83%A0%E1%83%90/angoul%c3%aame-%e2%80%93-cognac-international-airport_%e1%83%a1%e1%83%90%e1%83%a4%e1%83%a0%e1%83%90%e1%83%9c%e1%83%92%e1%83%94%e1%83%97%e1%83%98_6694763"/>
+    <link rel="alternate" hreflang="nl" href="https://www.meteoblue.com/nl/weer/week/angoul%c3%aame-%e2%80%93-cognac-international-airport_frankrijk_6694763"/>
+    <link rel="alternate" hreflang="pl" href="https://www.meteoblue.com/pl/pogoda/tydzie%C5%84/angoul%c3%aame-%e2%80%93-cognac-international-airport_francja_6694763"/>
+    <link rel="alternate" hreflang="pt" href="https://www.meteoblue.com/pt/tempo/semana/angoul%c3%aame-%e2%80%93-cognac-international-airport_fran%c3%a7a_6694763"/>
+    <link rel="alternate" hreflang="ro" href="https://www.meteoblue.com/ro/vreme/s%C4%83pt%C4%83m%C3%A2na/aeroportul-angoul%c3%aame-%e2%80%93-brie-%e2%80%93-champniers_fran%c8%9ba_6694763"/>
+    <link rel="alternate" hreflang="ru" href="https://www.meteoblue.com/ru/%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/angoul%c3%aame-%e2%80%93-cognac-international-airport_%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d1%8f_6694763"/>
+    <link rel="alternate" hreflang="sk" href="https://www.meteoblue.com/sk/po%C4%8Dasie/t%C3%BD%C5%BEde%C5%88/angoul%c3%aame-%e2%80%93-cognac-international-airport_franc%c3%bazsko_6694763"/>
+    <link rel="alternate" hreflang="sr" href="https://www.meteoblue.com/sr/vreme/nedeljna/angoul%c3%aame-%e2%80%93-cognac-international-airport_%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d1%83%d1%81%d0%ba%d0%b0_6694763"/>
+    <link rel="alternate" hreflang="tr" href="https://www.meteoblue.com/tr/hava/hafta/angoul%c3%aame-%e2%80%93-cognac-international-airport_fransa_6694763"/>
+    <link rel="alternate" hreflang="uk" href="https://www.meteoblue.com/uk/weather/week/angoul%c3%aame-%e2%80%93-cognac-international-airport_republic-of-france_6694763"/>
+
+    
+        <title>Météo Aéroport international d&#039;Angoulême - Cognac - meteoblue</title>
+
+            
+        <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    
+            <script>
+    window.googletag = window.googletag || {cmd: []};
+
+    var width = window.innerWidth
+    || document.documentElement.clientWidth
+    || document.body.clientWidth;
+
+    if (width > 600) {
+     
+        
+        // Desktop ads
+        var adSlot1, adSlot2;
+
+        googletag.cmd.push(function () {
+            var mapping1 = googletag.sizeMapping()
+                .addSize([1200, 0], [300, 600], [300, 250], [160, 600], [120, 600], [240, 400], [250, 250], [200, 200], 'fluid')
+                .addSize([968, 0], [728, 90], [468, 60], 'fluid')
+                .addSize([840, 0], [468, 60], 'fluid')
+                .addSize([728, 0], [728, 90], 'fluid')
+                .addSize([600, 0], [468, 60], 'fluid')
+                .build();
+            var mapping2 = googletag.sizeMapping()
+                .addSize([1200, 0], [300, 250], [250, 250], [200, 200], 'fluid')
+                .build();
+            var mapping3 = googletag.sizeMapping()
+                .addSize([1200, 0], [728, 90], [468, 60], 'fluid')
+                .addSize([968, 0], [728, 90], [468, 60], 'fluid')
+                .addSize([840, 0], [468, 60], 'fluid')
+                .addSize([728, 0], [728, 90], 'fluid')
+                .addSize([600, 0], [468, 60], 'fluid')
+                .build();
+
+            adSlot1 = googletag.defineSlot('/12231147/mb_desktop_uppermost', ['fluid', [300, 600], [300, 250], [160, 600], [120, 600], [240, 400], [250, 250], [200, 200] [728, 90], [468, 60]], 'div-gpt-ad-1534153139004-0');
+            adSlot1.setTargeting("refresh").setTargeting('pagecontent', ['weatherForecast']).setTargeting('pl', ['fr']).addService(googletag.pubads()).defineSizeMapping(mapping1);
+
+            if (width > 1200 ) {
+                adSlot2 = googletag.defineSlot('/12231147/mb_desktop_second', ['fluid', [300, 250], [250, 250], [200, 200]], 'div-gpt-ad-1534153665280-0');
+                adSlot2.setTargeting("refresh").setTargeting('pagecontent', ['weatherForecast']).setTargeting('pl', ['fr']).addService(googletag.pubads()).defineSizeMapping(mapping2).setCollapseEmptyDiv(true);
+            } 
+
+            adSlot3 = googletag.defineSlot('/12231147/desktop_banner_3', ['fluid', [728, 90], [468, 60]], 'div-gpt-ad-1684325002857-0');
+            adSlot3.setTargeting("refresh").setTargeting('pagecontent', ['weatherForecast']).setTargeting('pl', ['fr']).addService(googletag.pubads()).defineSizeMapping(mapping3);
+
+            googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+                if ('div-gpt-ad-1534153139004-0' === event.slot.getSlotElementId() && event.size !== null) {
+                    document.getElementById('div-gpt-ad-1534153139004-0').setAttribute('style', 'height: ' + event.size[1] + 'px');
+                }
+            });
+
+            var resizeOut = null;
+            if ('function' === typeof (window.addEventListener)) {
+                window.addEventListener('resize', function () {
+                    if (null !== resizeOut) clearTimeout(resizeOut);
+                    resizeOut = setTimeout(function () {
+                        googletag.pubads().refresh([adSlot1, adSlot2]);
+                    }, 1000);
+                });
+            }
+
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+        } else {
+        // Mobile interstitial and anchor
+        var interstitialSlot, anchorSlot, adSlot1, adSlot2;
+
+        var mb = mb || {};
+
+        googletag.cmd.push(function () {
+            interstitialSlot = googletag.defineOutOfPageSlot('/12231147/mobileWebInterstitial_2342', googletag.enums.OutOfPageFormat.INTERSTITIAL).setTargeting('pagecontent', ['weatherForecast']).setTargeting('pl', ['fr']);
+            anchorSlot = googletag.defineOutOfPageSlot('/12231147/mobileWeb_adaptiveBanner', googletag.enums.OutOfPageFormat.BOTTOM_ANCHOR).setTargeting('pagecontent', ['weatherForecast']).setTargeting('pl', ['fr']);
+            
+            adSlot1 = googletag.defineSlot('/12231147/mb_mobileWEb_banner', ['fluid', [300, 100], [320, 50], [320, 100]], 'div-gpt-ad-1681307013248-0');
+            adSlot1.setTargeting("refresh").setTargeting('pagecontent', ['weatherForecast']).setTargeting('pl', ['fr']);
+                                                                                                                
+            adSlot2 = googletag.defineSlot('/12231147/mb_mobileWEb_banner2', [[300, 250], 'fluid', [300, 100], [320, 50], [320, 100]], 'div-gpt-ad-1681336466256-0');
+            adSlot2.setTargeting("refresh").setTargeting('pagecontent', ['weatherForecast']).setTargeting('pl', ['fr']);
+
+            //this will show add on the top if this id is defined, if it is not it will show ad in the bottom as usual
+            if(document.getElementById("display_mobile_ad_in_header")){
+                if (adSlot1) {
+                    adSlot1.addService(googletag.pubads());
+                }
+            }
+            else{
+                if (anchorSlot) {
+                    anchorSlot.addService(googletag.pubads());
+                    mb.anchorAd = true;
+                    mb.refreshAnchorAd = function() {
+                        googletag.cmd.push(function() {
+                            googletag.pubads().refresh([anchorSlot]);
+                        });
+                    };
+                }
+            }
+
+            // this show adslot2 everywhere it is definde in .vue template (usually included somewhere in the body)
+            if (adSlot2) {
+                adSlot2.addService(googletag.pubads());
+            }
+
+            if (interstitialSlot) {
+                interstitialSlot.addService(googletag.pubads());
+
+                googletag.pubads().addEventListener('slotOnload', function(event) {
+                    if (interstitialSlot === event.slot) {
+                        mb.interstitial = true
+                    }
+                });
+            }
+
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    }
+</script>
+<script>
+    window.mb = window.mb || {};
+    window.mb.advertisingShouldBeEnabled = true;
+</script>
+    </head>
+
+    <body class="                    ">
+                    <!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCD5HRF"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->
+        
+        
+            
+    <div id="navigation_scroll_container" class="navigation-scroll-container">
+        <nav id="main_navigation" class="main-navigation">
+                            <a title="meteoblue" href="/fr/meteo/prevision/semaine" class="menu-logo" aria-label="Home"></a>
+                        <ul class="nav" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><li class="active"><a href="/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="icon-7-day nav-icon" itemprop="url" title="Météo 7- jours"><span itemprop="name">Météo 7 jours</span></a></li><li class=""><a href="/fr/meteo/14-jours/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="icon-14-day nav-icon" itemprop="url" title="Météo 14-jours"><span itemprop="name">Météo 14 jours</span></a></li><li class=""><a href="/fr/meteo/aujourd%27hui/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="icon-current nav-icon" itemprop="url" title="Météo aujourd&#039;hui"><span itemprop="name">Météo aujourd&#039;hui</span></a></li><li class=""><a href="/fr/meteo/webcams/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="icon-webcam nav-icon" itemprop="url" title="Webcams"><span itemprop="name">Webcams</span></a></li><li class=" section-end"><a href="/fr/meteo/cartes/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="icon-weather-maps nav-icon" itemprop="url" title="Cartes météo"><span itemprop="name">Cartes météo</span></a></li><li class=" extendable"><a href="/fr/meteo/prevision/meteogramweb/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="icon-forecast nav-icon" itemprop="url"><span itemprop="name">Prévision</span></a><ul><li class=""><a href="/fr/meteo/prevision/meteogramweb/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Météogrammes</span></a></li><li class=""><a href="/fr/meteo/prevision/multimodel/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">MultiModel</span></a></li><li class=""><a href="/fr/meteo/prevision/multimodelensemble/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">MultiModel ensemble</span></a></li><li class=""><a href="/fr/meteo/prevision/seasonaloutlook/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Prévisions saisonnières</span></a></li><li class=""><a href="/fr/meteo/warnings/index/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Avertissements météorologiques</span></a></li></ul></li><li class=" extendable"><a href="/fr/meteo/outdoorsports/where2go/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="icon-outdoor-sports nav-icon" itemprop="url"><span itemprop="name">Plein air et Sports</span></a><ul><li class=""><a href="/fr/meteo/outdoorsports/where2go/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">where2go</span></a></li><li class=""><a href="/fr/meteo/outdoorsports/snow/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Neige</span></a></li><li class=""><a href="/fr/meteo/outdoorsports/seasurf/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Mer et Surf</span></a></li><li class=""><a href="/fr/meteo/outdoorsports/seeing/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Astronomy Seeing</span></a></li><li class=""><a href="/fr/meteo/outdoorsports/airquality/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Qualité de l&#039;air et pollen</span></a></li></ul></li><li class=" extendable"><a href="/fr/meteo/aviation/air/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="icon-aviation nav-icon" itemprop="url"><span itemprop="name">Aviation</span></a><ul><li class=""><a href="/fr/meteo/aviation/air/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">AIR</span></a></li><li class=""><a href="/fr/meteo/aviation/thermal/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Bulle de convection</span></a></li><li class=""><a href="/fr/meteo/aviation/trajectories/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Trajectoires</span></a></li><li class=""><a href="/fr/meteo/aviation/crosssection/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Cross-section</span></a></li><li class=""><a href="/fr/meteo/aviation/stuve/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Stueve &amp; Sounding</span></a></li><li class=""><a href="/fr/meteo/cartes/index/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763#map=metar~metarflightcondition~none~none~none" itemprop="url"><span itemprop="name">METAR &amp; TAF</span></a></li></ul></li><li class=" extendable"><a href="/fr/meteo/agriculture/meteogramagro/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="icon-agriculture nav-icon" itemprop="url"><span itemprop="name">Agriculture</span></a><ul><li class=""><a href="/fr/meteo/agriculture/meteogramagro/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Météogramme AGRO</span></a></li><li class=""><a href="/fr/meteo/agriculture/sowing/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Fenêtres d&#039;ensemencement</span></a></li><li class=""><a href="/fr/meteo/agriculture/spraying/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Fenêtres de pulvérisation</span></a></li><li class=""><a href="/fr/meteo/agriculture/soiltrafficability/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Viabilité du sol</span></a></li></ul></li><li class=" section-end extendable"><a href="/fr/meteo/historyclimate/climatemodelled/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="icon-history-climate nav-icon" itemprop="url"><span itemprop="name">Historique et Climat</span></a><ul><li class=""><a href="/fr/climate-change/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Changement climatique</span></a></li><li class=""><a href="/fr/meteo/historyclimate/climatemodelled/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Climat (modélisé)</span></a></li><li class=""><a href="/fr/meteo/historyclimate/climateobserved/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Climat (observé)</span></a></li><li class=""><a href="/fr/meteo/historyclimate/verificationshort/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Vérification à court terme</span></a></li><li class=""><a href="/fr/meteo/historyclimate/weatherarchive/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Archive météo</span></a></li><li class=""><a href="/fr/meteo/historyclimate/climatecomparison/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Comparaison climatique</span></a></li></ul></li><li class=" extendable"><a href="/fr/pointplus" class="icon-products nav-icon" itemprop="url"><span itemprop="name">Produits</span></a><ul><li class=""><a rel="noreferrer" href="https://content.meteoblue.com/fr/" itemprop="url" target="_blank"><span class="external-positive glyph" itemprop="name">&nbsp;Vue d&#039;ensemble</span></a></li><li class=""><a rel="noreferrer" href="https://content.meteoblue.com/fr/business-solutions/weather-apis" itemprop="url" target="_blank"><span class="external-positive glyph" itemprop="name">&nbsp;API météo</span></a></li><li class=""><a href="/fr/ad-free" itemprop="url"><span itemprop="name">Ad-free</span></a></li><li class=""><a href="/fr/pointplus" itemprop="url"><span itemprop="name">point+</span></a></li><li class=""><a href="/fr/historyplus" itemprop="url"><span itemprop="name">history+</span></a></li><li class=""><a href="/fr/climateplus" itemprop="url"><span itemprop="name">climate+</span></a></li><li class=""><a href="/fr/products/cityclimate" itemprop="url"><span itemprop="name">Cartes de Chaleur Urbaine</span></a></li><li class=""><a rel="noreferrer" href="https://play.google.com/store/apps/details?id=com.meteoblue.droid&amp;utm_source=Website&amp;utm_campaign=Permanent" itemprop="url" target="_blank"><span class="external-positive glyph" itemprop="name">&nbsp;App Android</span></a></li><li class=""><a rel="noreferrer" href="https://itunes.apple.com/app/meteoblue/id994459137" itemprop="url" target="_blank"><span class="external-positive glyph" itemprop="name">&nbsp;App iPhone</span></a></li></ul></li><li class=" extendable"><a href="/fr/meteo/widget/setupthree/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="icon-widget nav-icon" itemprop="url"><span itemprop="name">Widgets</span></a><ul><li class=""><a href="/fr/meteo/widget/setupmap/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Widget Cartes Météo</span></a></li><li class=""><a href="/fr/meteo/widget/setupheatmap/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Widget des Cartes de Chaleur Urbaine</span></a></li><li class=""><a href="/fr/meteo/widget/setupthree/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Widget Météo 3h</span></a></li><li class=""><a href="/fr/meteo/widget/setupday/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Widget Météo Journalier</span></a></li><li class=""><a href="/fr/meteo/widget/setupseeing/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" itemprop="url"><span itemprop="name">Widget Astronomy</span></a></li><li class=""><a href="/fr/meteo/meteotv/overview/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="meteotv nav-icon" itemprop="url" title="meteoTV"><span itemprop="name">meteoTV</span></a></li></ul></li><li class=" section-end extendable"><a href="/fr/blog/article/news" class="icon-news nav-icon" itemprop="url"><span itemprop="name">Nouvelles</span></a><ul><li class=""><a href="/fr/blog/article/news" itemprop="url"><span itemprop="name">Nouvelles</span></a></li><li class=""><a href="/fr/blog/article/weathernews" itemprop="url"><span itemprop="name">Nouvelles météo</span></a></li></ul></li></ul>            <ul class="nav collapse-button">
+                <li id="button_collapse" class="button-collapse glyph" title="Fermer">Fermer</li>
+                <li id="button_expand" class="button-expand glyph" title="Étendre"></li>
+            </ul>
+        </nav>
+    </div>
+
+    
+    
+    <script>
+        try{
+            if( window.localStorage !== undefined && window.localStorage !== null){
+                const navigationJson = localStorage.getItem('navigation');
+                if (navigationJson !== null && navigationJson !== undefined) {
+                    const navigationSettings = JSON.parse(navigationJson);
+                    if (navigationSettings.collapsed) {
+                        document.body.classList.add("nav-collapsed");
+                    }
+                }
+            }
+        } catch (err){
+            console.error(err);
+        }
+    </script>
+
+                    <div class="page-header  ">
+    
+    
+    <div class="intro">
+        <div class="topnav">
+            <div class="wrapper ">
+                <div class="header-top">
+                                            <div class="menu-mobile-container">
+                            <a class="menu-mobile-trigger" href="#" aria-label="Menu">
+                                <span class="fasvg-36 fa-bars"></span>
+                            </a>
+                            <div id="menu_mobile" class="menu-mobile">
+                                <a href="/fr/meteo/prevision/semaine" class="menu-logo " aria-label="Home"></a>
+                                <div class="menu-mobile-trigger close-menu-mobile">
+                                    <span class="close-drawer">×</span>
+                                </div>
+                            </div>
+                        </div>
+                    
+                                            <div class="location-box">
+                            <div class="location-selection primary">
+                                <div id="location_search" class="location-search">
+                                    <form id="locationform" class="locationform" method="get"
+                                        action="/fr/meteo/search/index">
+                                        <input id="gls"
+                                            class="searchtext"
+                                            type="text"
+                                            value=""
+                                            data-mbdescription="Recherche de lieu"                                            data-mbautoset="1"
+                                            data-role="query"
+                                            name="query"
+                                            autocomplete="off"
+                                            tabindex="0"
+                                            placeholder="Recherche de lieu..."                                            onclick="if(this.value == 'Recherche de lieu...') {this.value=''}">
+                                        </input>
+                                        <label for="gls">Recherche de lieu</label>                                        
+                                        <button type="submit" aria-label="Soumettre">
+                                        </button>
+                                        <button id="gls_map" class="location-map" href="#" aria-label="Ouvrir la carte"> 
+                                            <span class="fasvg-18 fa-map-search"></span>
+                                        </button>
+                                        <button id="gps" class="location-gps" href="#" aria-label="À proximité de"> 
+                                            <span class="fasvg-18 fa-location-search"></span>
+                                        </button>
+                                        <div class="results"></div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    <div class="additional-settings narrow">
+                        <div id="user" class="button settings2">
+                                                            <div class="inner">
+                                    <a href="/fr/user/login/index" aria-label="Profil">
+                                        <span class="fasvg-25 fa-user-light"></span>
+                                    </a>
+                                </div>
+                                                    </div>
+
+
+                        <div id="settings" class="button settings">
+                            <div class="inner">
+                                <a href="#" aria-label="Réglages">
+                                    <span class="fasvg-25 fa-cog"></span>
+                                </a>
+                            </div>
+
+                            <div class="matches" style="display: none;">
+                                
+                                <h2>Langue</h2>
+                                <ul class="matches-group wide">
+                                                                            <li style="direction: rtl;">
+                                                                                        <a hreflang="ar"  href="https://www.meteoblue.com/ar/weather/week/angoul%c3%aame-%e2%80%93-cognac-international-airport_%d9%81%d8%b1%d9%86%d8%b3%d8%a7_6694763">عربي</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="bg"  href="https://www.meteoblue.com/bg/%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D1%82%D0%BE/%D1%81%D0%B5%D0%B4%D0%BC%D0%B8%D1%86%D0%B0/angoul%c3%aame-%e2%80%93-cognac-international-airport_%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d1%8f_6694763">Български</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="cs"  href="https://www.meteoblue.com/cs/po%C4%8Das%C3%AD/t%C3%BDden/angoul%c3%aame-%e2%80%93-cognac-international-airport_francie_6694763">Čeština</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="de"  href="https://www.meteoblue.com/de/wetter/woche/flughafen-angoul%c3%aame-cognac_frankreich_6694763">Deutsch</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="el"  href="https://www.meteoblue.com/el/%CE%BA%CE%B1%CE%B9%CF%81%CF%8C%CF%82/%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1/angoul%c3%aame-%e2%80%93-cognac-international-airport_%ce%93%ce%b1%ce%bb%ce%bb%ce%af%ce%b1_6694763">Ελληνικά</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="en"  href="https://www.meteoblue.com/en/weather/week/angoul%c3%aame-%e2%80%93-cognac-international-airport_france_6694763">English</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="es"  href="https://www.meteoblue.com/es/tiempo/semana/angoul%c3%aame-%e2%80%93-cognac-international-airport_francia_6694763">Español</a>
+
+                                        </li>
+                                                                            <li class="selected">
+                                                                                        <a hreflang="fr"  href="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763">Français</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="hr"  href="https://www.meteoblue.com/hr/weather/week/angoul%c3%aame-%e2%80%93-cognac-international-airport_republic-of-france_6694763">Hrvatski</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="hu"  href="https://www.meteoblue.com/hu/id%C5%91j%C3%A1r%C3%A1s/h%C3%A9t/angoul%c3%aame-%e2%80%93-brie-%e2%80%93-champniers-rep%c3%bcl%c5%91t%c3%a9r_franciaorsz%c3%a1g_6694763">Magyar</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="it"  href="https://www.meteoblue.com/it/tempo/settimana/angoul%c3%aame-%e2%80%93-cognac-international-airport_francia_6694763">Italiano</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="ka"  href="https://www.meteoblue.com/ka/%E1%83%90%E1%83%9B%E1%83%98%E1%83%9C%E1%83%93%E1%83%98/%E1%83%99%E1%83%95%E1%83%98%E1%83%A0%E1%83%90/angoul%c3%aame-%e2%80%93-cognac-international-airport_%e1%83%a1%e1%83%90%e1%83%a4%e1%83%a0%e1%83%90%e1%83%9c%e1%83%92%e1%83%94%e1%83%97%e1%83%98_6694763">ქართული ენა</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="nl"  href="https://www.meteoblue.com/nl/weer/week/angoul%c3%aame-%e2%80%93-cognac-international-airport_frankrijk_6694763">Nederlands</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="pl"  href="https://www.meteoblue.com/pl/pogoda/tydzie%C5%84/angoul%c3%aame-%e2%80%93-cognac-international-airport_francja_6694763">Polski</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="pt"  href="https://www.meteoblue.com/pt/tempo/semana/angoul%c3%aame-%e2%80%93-cognac-international-airport_fran%c3%a7a_6694763">Português</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="ro"  href="https://www.meteoblue.com/ro/vreme/s%C4%83pt%C4%83m%C3%A2na/aeroportul-angoul%c3%aame-%e2%80%93-brie-%e2%80%93-champniers_fran%c8%9ba_6694763">Română</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="ru"  href="https://www.meteoblue.com/ru/%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/angoul%c3%aame-%e2%80%93-cognac-international-airport_%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d1%8f_6694763">Pусский</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="sk"  href="https://www.meteoblue.com/sk/po%C4%8Dasie/t%C3%BD%C5%BEde%C5%88/angoul%c3%aame-%e2%80%93-cognac-international-airport_franc%c3%bazsko_6694763">Slovenský</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="sr"  href="https://www.meteoblue.com/sr/vreme/nedeljna/angoul%c3%aame-%e2%80%93-cognac-international-airport_%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d1%83%d1%81%d0%ba%d0%b0_6694763">Srpski</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="tr"  href="https://www.meteoblue.com/tr/hava/hafta/angoul%c3%aame-%e2%80%93-cognac-international-airport_fransa_6694763">Türkçe</a>
+
+                                        </li>
+                                                                            <li>
+                                                                                        <a hreflang="uk"  href="https://www.meteoblue.com/uk/weather/week/angoul%c3%aame-%e2%80%93-cognac-international-airport_republic-of-france_6694763">Українська</a>
+
+                                        </li>
+                                                                    </ul>
+                                
+                                <h2>Température</h2>
+                                <ul class="matches-group">
+                                                                            <li class="selected">
+                                            <a href="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="unit" data-type="temp"
+                                            data-unit="CELSIUS">°C</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="unit" data-type="temp"
+                                            data-unit="FAHRENHEIT">°F</a>
+                                        </li>
+                                                                    </ul>
+                                
+                                <h2>Vitesse du vent</h2>
+                                <ul class="matches-group">
+                                                                            <li>
+                                            <a href="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="unit" data-type="speed"
+                                            data-unit="BEAUFORT">bft</a>
+                                        </li>
+                                                                            <li class="selected">
+                                            <a href="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="unit" data-type="speed"
+                                            data-unit="KILOMETER_PER_HOUR">km/h</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="unit" data-type="speed"
+                                            data-unit="METER_PER_SECOND">m/s</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="unit" data-type="speed"
+                                            data-unit="MILE_PER_HOUR">mph</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="unit" data-type="speed"
+                                            data-unit="KNOT">kn</a>
+                                        </li>
+                                                                    </ul>
+                                
+                                <h2>Précipitation</h2>
+                                <ul class="matches-group">
+                                                                            <li class="selected">
+                                            <a href="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="unit" data-type="precip"
+                                            data-unit="MILLIMETER">mm</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" class="unit" data-type="precip"
+                                            data-unit="INCH">in</a>
+                                        </li>
+                                                                    </ul>
+                                <h2>Darkmode</h2>
+                                <ul class="matches-group"> 
+                                    <input class="switch darkmode-switch" role="switch" type="checkbox" data-cy="switchDarkmode" >
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="print" style="display: none">
+                    <img loading="lazy" class="logo" src="https://static.meteoblue.com/assets/images/logo/meteoblue_logo_v2.0.svg"
+                        alt="meteoblue-logo">
+                    <div class="qr-code"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+            <div class="header-lower">
+            <header>
+                <div id="header" class="header" itemscope itemtype="http://schema.org/Place">
+                    <div class="wrapper  current-wrapper">
+                        <div class="current-heading" itemscope itemtype="http://schema.org/City">
+                            <h1 itemprop="name"
+                                content="Aéroport international d&#039;Angoulême - Cognac"
+                                class="main-heading">Météo Aéroport international d&#039;Angoulême - Cognac                                                                                                            <div id="add_fav" class="add-fav">
+                                            <a name="favourites_add" title="Ajouter aux favoris" class="add-fav-signup" href="/fr/user/login/index" aria-label="Ajouter aux favoris">
+                                                <span class="fasvg-28 fa-star"></span>
+                                            </a>
+                                        </div>
+                                                                                                </h1>
+
+                            <div class="location-description  location-text ">
+            <span itemscope itemtype="http://schema.org/AdministrativeArea">
+                            <span class="fasvg-16 featcl-s"></span>&nbsp;
+                        <span class="admin" itemprop="name">
+                <a href=/fr/region/meteo/satellite/nouvelle-aquitaine_france_11071620                    rel="nofollow" 
+                >
+                    Nouvelle-Aquitaine                </a>
+            </span>,&nbsp;
+        </span>
+    
+            <span class="country" itemprop="containedInPlace" itemscope itemtype="http://schema.org/Country">
+            <span itemprop="name">
+                <a href=/fr/country/meteo/satellite/france_france_3017382                    rel="nofollow" 
+                >
+                    France                </a>
+            </span>,&nbsp;
+        </span>
+    
+    <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+        <span class="coords">45.73°N 0.22°E,&nbsp;</span>
+        <meta itemprop="latitude" content="45.73"/>
+        <meta itemprop="longitude" content="0.22"/>
+
+                    132m s.n.m.            <meta itemprop="elevation" content="132"/>
+            </span>
+
+    </div>
+
+
+                        </div>
+
+                        
+                                                    <a  class="current-weather narrow"
+                                href="/fr/meteo/prevision/current/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763"
+                                aria-label="Météo actuelle">
+                                <div class="current-picto-and-temp">
+                                    <span class="current-picto">
+                                                                                                                        <img
+                                            src="https://static.meteoblue.com/assets/images/picto/07_night.svg"
+                                            title="Partiellement nuageux"
+                                        />
+                                    </span>
+                                    <div class="h1 current-temp">
+                                        10&thinsp;°C                                    </div>
+                                </div>
+                                <div class="current-description ">
+                                                                            <span style="margin-right: 5px">17  km/h</span>
+                                                                        <span >17:00   </span> 
+                                </div>
+                            </a>
+                                            </div>
+                </div>
+            </header>
+        </div>
+    
+        
+</div>
+    
+<!-- MOBILE AD  -->
+<div id="display_mobile_ad_in_header" class="centered mobile-top-da-wrapper">
+    <!-- /12231147/mb_mobileWEb_banner -->
+    <div class="centered" id='div-gpt-ad-1681307013248-0' style="
+        min-width: 100%;
+        min-height: 115px;
+        max-height: 115px;
+         background: #124673;     "></div>
+</div>
+
+
+        
+            <div class="wrapper-sda">
+        <div class="ad1-box">
+            <div id="div-gpt-ad-1534153139004-0" class="adsbygoogle ad1"></div>
+            <a class="ad1-disable" href="/fr/ad-free">
+            meteoblue Ad-free 9 €
+    </a>
+        </div>
+    </div>
+
+        
+<div id="wrapper-main" class="wrapper-main">
+
+    <div class="wrapper ">
+                    
+                            <div id="fixity"
+     class="fixity">
+            <!-- /12231147/mb_desktop_second -->
+        <div id="div-gpt-ad-1534153665280-0" class="adsbygoogle ad2">
+        </div>
+    
+                        
+<div id="news">
+    
+                            <article class="news" itemscope itemtype="http://schema.org/BlogPosting">
+            <div class="news-heading">Nouvelles </div>
+            <a href="https://www.meteoblue.com/fr/blog/article/show/40449_Cartes+de+chaleur+urbaine+plus+%60smart%60%3A+mesures+en+temps+r%C3%A9el+pour+V%C3%A9rone+%28beta%29" >
+                                    <div class="news-img" itemprop="mainEntityOfPage">
+                        <img alt="Cartes de chaleur urbaine plus `smart`: mesures en temps réel pour Vérone (beta)" itemprop="image" loading="lazy" src="https://mb-richtexteditor.s3-eu-west-1.amazonaws.com/20241217141924_Screenshot2024-12-06at11.07.39_440x220.jpg" srcset="https://mb-richtexteditor.s3-eu-west-1.amazonaws.com/20241217141924_Screenshot2024-12-06at11.07.39_880x440.jpg 2x"/>
+                    </div>
+                                <div class="news-text">
+                    <h3 itemprop="headline"> Cartes de chaleur urbaine plus `smart`: mesures en temps réel pour Vérone (beta) </h3>         
+                    <meta itemprop="mainEntityOfPage" content="https://www.meteoblue.com/fr/blog/article/show/40449_Cartes+de+chaleur+urbaine+plus+%60smart%60%3A+mesures+en+temps+r%C3%A9el+pour+V%C3%A9rone+%28beta%29">
+                    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+                        <meta itemprop="datePublished" content="2024-12-17T14:39:39+05:00">
+                        <meta itemprop="dateModified" content="2024-12-24T10:52:37+05:00">
+                        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                            <meta itemprop="url" content="https://static.meteoblue.com/assets/images/logo/launcher-icon-4x.png">
+                            <meta itemprop="width" content="192">
+                            <meta itemprop="height" content="60">
+                        </div>
+                        <meta itemprop="name" content="meteoblue AG">
+                    </div>
+                    <p itemprop="description">Découvrez les données de température et de précipitations en temps réel dans la carte de chaleur urbaine meteoblue améliorée pour Vérone. Cette version beta offre de meilleures perspectives grâce à des mesures réelles, ouvrant la voie à de futurs déploiements dans d`autres villes</p>
+                    <meta itemprop="author" content="demi.stonjek">
+                    <div class="read-on" itemprop="url" title="Nouvelles">Poursuivre la lecture</div> 
+                </div>
+            </a>
+        </article>
+                            <article class="news" itemscope itemtype="http://schema.org/BlogPosting">
+            <div class="news-heading">Nouvelles </div>
+            <a href="https://www.meteoblue.com/fr/blog/article/show/40453_Joyeuses+f%C3%AAtes+%C3%A0+tous+les+utilisateurs+de+meteoblue+%21" >
+                                    <div class="news-img" itemprop="mainEntityOfPage">
+                        <img alt="Joyeuses fêtes à tous les utilisateurs de meteoblue !" itemprop="image" loading="lazy" src="https://mb-richtexteditor.s3-eu-west-1.amazonaws.com/20241217134950_p-christmas-banner_440x220.jpg" srcset="https://mb-richtexteditor.s3-eu-west-1.amazonaws.com/20241217134950_p-christmas-banner_880x440.jpg 2x"/>
+                    </div>
+                                <div class="news-text">
+                    <h3 itemprop="headline"> Joyeuses fêtes à tous les utilisateurs de meteoblue ! </h3>         
+                    <meta itemprop="mainEntityOfPage" content="https://www.meteoblue.com/fr/blog/article/show/40453_Joyeuses+f%C3%AAtes+%C3%A0+tous+les+utilisateurs+de+meteoblue+%21">
+                    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+                        <meta itemprop="datePublished" content="2024-12-24T11:54:00+05:00">
+                        <meta itemprop="dateModified" content="2024-12-24T10:54:35+05:00">
+                        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                            <meta itemprop="url" content="https://static.meteoblue.com/assets/images/logo/launcher-icon-4x.png">
+                            <meta itemprop="width" content="192">
+                            <meta itemprop="height" content="60">
+                        </div>
+                        <meta itemprop="name" content="meteoblue AG">
+                    </div>
+                    <p itemprop="description">En ce début de période de fêtes, nous sommes ravis de poursuivre notre chère tradition de rendre à notre communauté ce qu`elle nous a donné. Du 24 décembre au 1er janvier, les fonctionnalités point+ seront gratuites pour tous !</p>
+                    <meta itemprop="author" content="michaelaschloegl">
+                    <div class="read-on" itemprop="url" title="Nouvelles">Poursuivre la lecture</div> 
+                </div>
+            </a>
+        </article>
+    </div>            </div>
+            
+            <main class="main">
+                <div class="grid">
+                    
+
+<!--<div class="app-promo">
+    <a href="/fr/meteo/cartes/index" aria-label="Weather Maps">
+        <span class="icon">🗺️</span> <span class="promo-text">Testez nos cartes météo</span> <span class="icon">🗺️</span>
+    </a>
+</div>
+
+    <div class="app-promo">
+        <a href="https://play.google.com/store/apps/details?id=com.meteoblue.droid&referrer=utm_source%3Dmeteoblue%26utm_medium%3DwebsiteBanner%26utm_campaign%3DwebsiteBanner%26anid%3Dadmob" aria-label="App download link">
+            <span>Télécharger l'application meteoblue</span>
+        </a>
+    </div>
+-->
+  
+<div id="tab_results" class="tab-results">
+    <div id="tab_wrapper" class="tab-wrapper">
+                    <div id="day1" class="tab active   first    ">
+                <a                 href="/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=1"
+                data-mobile="/fr/meteo/semaine/oneday/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=1"
+                data-day="1">
+                                        <div id="explanation_bubble" class="explanation-bubble">
+                        <div>
+                            <span class="glyph winddir NE"></span>
+                            Direction et vitesse du vent                        </div>
+                        <div>
+                            <span class="glyph rain"></span>
+                             Quantité de précipitations  
+                        </div>
+                        <div>
+                            <span class="glyph sunshine"></span>
+                            Heures d'ensoleillement                        </div>
+                        <div>
+                            <span class="glyph predictability"></span>
+
+                            
+                            La prévisibilité indique si la prévision est fiable <span class="glyph predictability base-color"></span><span class="glyph predictability base-color"></span><span class="glyph predictability base-color"></span><span class="glyph predictability base-color"></span>, un peu incertaine <span class="glyph predictability base-color"></span><span class="glyph predictability base-color"></span><span class="glyph predictability secondary-color"></span><span class="glyph predictability secondary-color"></span> ou susceptible de changer <span class="glyph predictability secondary-color"></span><span class="glyph predictability secondary-color"></span><span class="glyph predictability secondary-color"></span><span class="glyph predictability secondary-color"></span>.                        </div>
+                    </div>
+                                        <div class="tab-content">
+                        <div id="inline_help" class="inline-help-icons"><span class="glyph help-solid"></span></div>                        <time datetime="2024-12-25" class="date">
+                            <div class="tab-day-short">
+                                Mer                            </div>
+                            <div class="tab-day-long">
+                                                                    Aujourd'hui                                                            </div>
+                        </time>
+
+                                                                                                
+                                                   
+                         
+                         
+                        
+                        <div class="weather day  ">
+                            <div class="weather-pictogram-wrapper day ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                    alt="Partiellement nuageux"
+                                    title="Partiellement nuageux"
+                                />
+                            </div>
+                            <div class="weather-pictogram-wrapper-second night ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/03_inight.svg"
+                                    alt="Partiellement nuageux"
+                                    title="Partiellement nuageux"
+                                />
+                            </div>
+                        </div>
+
+                        <div class="temps">
+                            <div class="tab-temp-max" title="Température maximale"                                title="Heures d'ensoleillement"                                style="background-color: #3CA12C; color: #FFFFFF">
+                                13&nbsp;°C                            </div>
+                            <div class="tab-temp-min" title="Température minimale"                                style="background-color: #10B87A; color: #000000">
+                                7&nbsp;°C                            </div>
+                        </div>
+                        <div class="data">
+                            <div class="wind"  title="Vitesse du vent" >
+                                <span class="glyph winddir NE"></span>
+                                14 km/h                             </div>
+                            <div  title="Quantité de précipitations"   class="tab-precip">
+                                <span class="glyph rain"></span>
+                                -                            </div>
+                            <div title="Heures d'ensoleillement" class="tab-sun">
+                                <span class="glyph sunshine"></span>
+                                                                    4 h                                                            </div>
+                        </div>
+                        <div class="tab-predictability"
+                            title="Prévisibilité : très haute">
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                    </div>
+                    </div>
+                </a>
+            </div>
+            <div class="tab-detail active" data-day="1">
+                                    
+<div class="grid no-top-border no-bottom-border details">
+    <div class="col-12 wide-content one-day">
+
+                
+        
+        
+            <table class="picto three-hourly-view ">
+                <tbody>
+                
+                                <tr class="times" title="25/12/2024 (CET)">
+                    <th>
+                        <div class="cell">
+                            <span class="alticon glyph clock"></span>
+                            <span class="description">
+                                <time datetime="2024-12-25T03:00:00+01:00">Mercredi</time>
+                            </span>
+                        </div>
+                    </th>
+                                            <td><div class="cell time ">
+                            <time datetime="2024-12-25T03:00:00+01:00">03<span class="up">00</span></time>
+                        </div></td>
+                                            <td><div class="cell time ">
+                            <time datetime="2024-12-25T06:00:00+01:00">06<span class="up">00</span></time>
+                        </div></td>
+                                            <td><div class="cell time ">
+                            <time datetime="2024-12-25T09:00:00+01:00">09<span class="up">00</span></time>
+                        </div></td>
+                                            <td><div class="cell time ">
+                            <time datetime="2024-12-25T12:00:00+01:00">12<span class="up">00</span></time>
+                        </div></td>
+                                            <td><div class="cell time ">
+                            <time datetime="2024-12-25T15:00:00+01:00">15<span class="up">00</span></time>
+                        </div></td>
+                                            <td><div class="cell time now ">
+                            <time datetime="2024-12-25T18:00:00+01:00">18<span class="up">00</span></time>
+                        </div></td>
+                                            <td><div class="cell time ">
+                            <time datetime="2024-12-25T21:00:00+01:00">21<span class="up">00</span></time>
+                        </div></td>
+                                            <td><div class="cell time  hide-desktop ">
+                            <time datetime="2024-12-26T00:00:00+01:00">24<span class="up">00</span></time>
+                        </div></td>
+                                        <td class="help-predictability-mobile"></td>
+                </tr>
+
+                
+                <tr class="icons">
+                    <th>
+                        <div class="cell">
+                            <div class="weekday alt">Icon</div>
+                        </div>
+                    </th>
+                                                                                            
+                                                   
+                         
+
+                        <td>
+                            <div class="cell">
+                                <div class="pictoicon
+                                         night-to-night-bg
+                                        " >
+
+                                        <div class="pictoicon-cell  ">
+                                            <img
+                                                class="picon3h "
+                                                src="https://static.meteoblue.com/assets/images/picto/13_night.svg"
+                                                alt="Ciel clair mais brumeux"
+                                                title="Ciel clair mais brumeux"/>
+                                        </div>
+                                </div>
+                            </div>
+                        </td>
+                                                                                            
+                                                   
+                         
+
+                        <td>
+                            <div class="cell">
+                                <div class="pictoicon
+                                         night-to-night-bg
+                                        " >
+
+                                        <div class="pictoicon-cell  ">
+                                            <img
+                                                class="picon3h "
+                                                src="https://static.meteoblue.com/assets/images/picto/13_night.svg"
+                                                alt="Ciel clair mais brumeux"
+                                                title="Ciel clair mais brumeux"/>
+                                        </div>
+                                </div>
+                            </div>
+                        </td>
+                                                                                            
+                                                   
+                         
+
+                        <td>
+                            <div class="cell">
+                                <div class="pictoicon
+                                         night-to-day-bg
+                                        " >
+
+                                        <div class="pictoicon-cell  ">
+                                            <img
+                                                class="picon3h "
+                                                src="https://static.meteoblue.com/assets/images/picto/04_day.svg"
+                                                alt="Clair avec quelques nuages bas"
+                                                title="Clair avec quelques nuages bas"/>
+                                        </div>
+                                </div>
+                            </div>
+                        </td>
+                                                                                            
+                                                   
+                         
+
+                        <td>
+                            <div class="cell">
+                                <div class="pictoicon
+                                         day-to-day-bg
+                                        " >
+
+                                        <div class="pictoicon-cell  ">
+                                            <img
+                                                class="picon3h "
+                                                src="https://static.meteoblue.com/assets/images/picto/07_day.svg"
+                                                alt="Partiellement nuageux"
+                                                title="Partiellement nuageux"/>
+                                        </div>
+                                </div>
+                            </div>
+                        </td>
+                                                                                            
+                                                   
+                         
+
+                        <td>
+                            <div class="cell">
+                                <div class="pictoicon
+                                         day-to-day-bg
+                                        " >
+
+                                        <div class="pictoicon-cell  ">
+                                            <img
+                                                class="picon3h "
+                                                src="https://static.meteoblue.com/assets/images/picto/07_day.svg"
+                                                alt="Partiellement nuageux"
+                                                title="Partiellement nuageux"/>
+                                        </div>
+                                </div>
+                            </div>
+                        </td>
+                                                                                            
+                                                   
+                         
+
+                        <td>
+                            <div class="cell">
+                                <div class="pictoicon
+                                         day-to-night-bg
+                                        " >
+
+                                        <div class="pictoicon-cell  ">
+                                            <img
+                                                class="picon3h "
+                                                src="https://static.meteoblue.com/assets/images/picto/04_night.svg"
+                                                alt="Clair avec quelques nuages bas"
+                                                title="Clair avec quelques nuages bas"/>
+                                        </div>
+                                </div>
+                            </div>
+                        </td>
+                                                                                            
+                                                   
+                         
+
+                        <td>
+                            <div class="cell">
+                                <div class="pictoicon
+                                         night-to-night-bg
+                                        " >
+
+                                        <div class="pictoicon-cell  ">
+                                            <img
+                                                class="picon3h "
+                                                src="https://static.meteoblue.com/assets/images/picto/07_night.svg"
+                                                alt="Partiellement nuageux"
+                                                title="Partiellement nuageux"/>
+                                        </div>
+                                </div>
+                            </div>
+                        </td>
+                                                                                            
+                                                   
+                         
+
+                        <td>
+                            <div class="cell">
+                                <div class="pictoicon
+                                         night-to-night-bg
+                                        " >
+
+                                        <div class="pictoicon-cell  ">
+                                            <img
+                                                class="picon3h "
+                                                src="https://static.meteoblue.com/assets/images/picto/07_night.svg"
+                                                alt="Partiellement nuageux"
+                                                title="Partiellement nuageux"/>
+                                        </div>
+                                </div>
+                            </div>
+                        </td>
+                                        <td class="help-predictability-mobile"></td>
+                </tr>
+
+                
+                <tr class="temperatures" title="Température (°C)">
+                    <th>
+                        <div class="cell">
+                            <span class="glyph temperature"></span>
+                            <span class="description">Température (°C)</span>
+                        </div>
+                    </th>
+                                                                                                                    <td>
+                            <div class="cell hide-desktop"  style="background: #297B5D; color: #FFFFFF">
+                                8°
+                            </div>
+                            <div class="cell hide-phones"  style="background: linear-gradient(90deg, #297B5D 0%, #297B5D 100%); color: #FFFFFF">
+                                8°
+                            </div>
+                        </td>
+                                                                                                                    <td>
+                            <div class="cell hide-desktop"  style="background: #297B5D; color: #FFFFFF">
+                                8°
+                            </div>
+                            <div class="cell hide-phones"  style="background: linear-gradient(90deg, #297B5D 0%, #297B5D 100%); color: #FFFFFF">
+                                8°
+                            </div>
+                        </td>
+                                                                                                                    <td>
+                            <div class="cell hide-desktop"  style="background: #10B87A; color: #000000">
+                                7°
+                            </div>
+                            <div class="cell hide-phones"  style="background: linear-gradient(90deg, #297B5D 0%, #10B87A 100%); color: #000000">
+                                7°
+                            </div>
+                        </td>
+                                                                                                                    <td>
+                            <div class="cell hide-desktop"  style="background: #007229; color: #FFFFFF">
+                                11°
+                            </div>
+                            <div class="cell hide-phones"  style="background: linear-gradient(90deg, #10B87A 0%, #007229 100%); color: #FFFFFF">
+                                11°
+                            </div>
+                        </td>
+                                                                                                                    <td>
+                            <div class="cell hide-desktop"  style="background: #3CA12C; color: #FFFFFF">
+                                12°
+                            </div>
+                            <div class="cell hide-phones"  style="background: linear-gradient(90deg, #007229 0%, #3CA12C 100%); color: #FFFFFF">
+                                12°
+                            </div>
+                        </td>
+                                                                                                                    <td>
+                            <div class="cell hide-desktop"  style="background: #297B5D; color: #FFFFFF">
+                                9°
+                            </div>
+                            <div class="cell hide-phones"  style="background: linear-gradient(90deg, #3CA12C 0%, #297B5D 100%); color: #FFFFFF">
+                                9°
+                            </div>
+                        </td>
+                                                                                                                    <td>
+                            <div class="cell hide-desktop"  style="background: #297B5D; color: #FFFFFF">
+                                9°
+                            </div>
+                            <div class="cell hide-phones"  style="background: linear-gradient(90deg, #297B5D 0%, #297B5D 100%); color: #FFFFFF">
+                                9°
+                            </div>
+                        </td>
+                                                                                                                    <td>
+                            <div class="cell hide-desktop"  style="background: #297B5D; color: #FFFFFF">
+                                8°
+                            </div>
+                            <div class="cell hide-phones"  style="background: linear-gradient(90deg, #297B5D 0%, #297B5D 100%); color: #FFFFFF">
+                                8°
+                            </div>
+                        </td>
+                                        <td class="help-predictability-mobile"></td>
+                </tr>
+
+                
+                <tr class="windchills" title="Température ressentie (°C)">
+                    <th>
+                        <div class="cell">
+                            <span class="glyph windchill"></span>
+                            <span class="description">Température ressentie (°C)</span>
+                        </div>
+                    </th>
+                                            <td><div class="cell ">7°</div></td>
+                                            <td><div class="cell ">7°</div></td>
+                                            <td><div class="cell ">5°</div></td>
+                                            <td><div class="cell ">8°</div></td>
+                                            <td><div class="cell ">10°</div></td>
+                                            <td><div class="cell now">7°</div></td>
+                                            <td><div class="cell ">5°</div></td>
+                                            <td><div class="cell ">4°</div></td>
+                                        <td class="help-predictability-mobile"></td>
+                </tr>
+
+                
+                <tr class="winddirs no-mobile" title="Direction du vent">
+                    <th>
+                        <div class="cell">
+                            <span class="glyph winddir"></span>
+                            <span class="description">Direction du vent</span>
+                        </div>
+                    </th>
+                                            <td><div class="cell "><div class="glyph winddir NE">NE</div></div></td>
+                                            <td><div class="cell "><div class="glyph winddir NNE">NNE</div></div></td>
+                                            <td><div class="cell "><div class="glyph winddir NNE">NNE</div></div></td>
+                                            <td><div class="cell "><div class="glyph winddir NNE">NNE</div></div></td>
+                                            <td><div class="cell "><div class="glyph winddir NNE">NNE</div></div></td>
+                                            <td><div class="cell now"><div class="glyph winddir NNE">NNE</div></div></td>
+                                            <td><div class="cell "><div class="glyph winddir NE">NE</div></div></td>
+                                            <td><div class="cell "><div class="glyph winddir NE">NE</div></div></td>
+                                        <td class="help-predictability-mobile"></td>
+                </tr>
+
+                
+                <tr class="windspeeds" title="Vitesse du vent (km/h)">
+                    <th>
+                        <div class="cell">
+                            <span class="glyph windspeed"></span>
+                            <span class="description">Vitesse du vent (km/h)</span>
+                        </div>
+                    </th>
+                                                                                                                        <td>
+                            <div class="cell no-desktop ">
+                                <div class="glyph winddir NE">
+                                    NE                                </div>
+                                4-11                            </div>
+                            <div class="cell no-mobile ">
+                                4-11                            </div>
+                        </td>
+                                                                                                                        <td>
+                            <div class="cell no-desktop ">
+                                <div class="glyph winddir NNE">
+                                    NNE                                </div>
+                                4-13                            </div>
+                            <div class="cell no-mobile ">
+                                4-13                            </div>
+                        </td>
+                                                                                                                        <td>
+                            <div class="cell no-desktop ">
+                                <div class="glyph winddir NNE">
+                                    NNE                                </div>
+                                6-16                            </div>
+                            <div class="cell no-mobile ">
+                                6-16                            </div>
+                        </td>
+                                                                                                                        <td>
+                            <div class="cell no-desktop ">
+                                <div class="glyph winddir NNE">
+                                    NNE                                </div>
+                                9-19                            </div>
+                            <div class="cell no-mobile ">
+                                9-19                            </div>
+                        </td>
+                                                                                                                        <td>
+                            <div class="cell no-desktop ">
+                                <div class="glyph winddir NNE">
+                                    NNE                                </div>
+                                12-24                            </div>
+                            <div class="cell no-mobile ">
+                                12-24                            </div>
+                        </td>
+                                                                                                                        <td>
+                            <div class="cell no-desktop now">
+                                <div class="glyph winddir NNE">
+                                    NNE                                </div>
+                                13-24                            </div>
+                            <div class="cell no-mobile now">
+                                13-24                            </div>
+                        </td>
+                                                                                                                        <td>
+                            <div class="cell no-desktop ">
+                                <div class="glyph winddir NE">
+                                    NE                                </div>
+                                13-22                            </div>
+                            <div class="cell no-mobile ">
+                                13-22                            </div>
+                        </td>
+                                                                                                                        <td>
+                            <div class="cell no-desktop ">
+                                <div class="glyph winddir NE">
+                                    NE                                </div>
+                                14-24                            </div>
+                            <div class="cell no-mobile ">
+                                14-24                            </div>
+                        </td>
+                                        <td class="help-predictability-mobile"></td>
+                </tr>
+
+                
+                
+                
+                                                                
+                                                                                                                                                                                    
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                                                                                    
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                                                                                    
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                                                                                    
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                                                                                    
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                                                                                    
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                                                                                    
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                                                                                    
+                                                                                                                                            
+                                                                                                                                            
+                                                                                    
+                                                    
+                
+                <tr class="precips no-rain" title="Précipitation (mm/3h)">
+                    <th>
+                        <div class="cell precipitations-mobile">
+                            <span class="glyph rain"></span>
+                            <span class="description">
+                                Précipitation (mm/3h)
+                            </span>
+                        </div>
+                    </th>
+                                                                                                                                                                                                                                                    <td>
+                            <div class="cell no-desktop ">
+                                <div class="precip">
+                                    <span> - </span>
+                                </div>
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                            <div class="cell no-mobile ">
+                                <span>-</span>
+                            </div>
+                        </td>
+                                                                                                                                                                                                                                                    <td>
+                            <div class="cell no-desktop ">
+                                <div class="precip">
+                                    <span> - </span>
+                                </div>
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                            <div class="cell no-mobile ">
+                                <span>-</span>
+                            </div>
+                        </td>
+                                                                                                                                                                                                                                                    <td>
+                            <div class="cell no-desktop ">
+                                <div class="precip">
+                                    <span> - </span>
+                                </div>
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                            <div class="cell no-mobile ">
+                                <span>-</span>
+                            </div>
+                        </td>
+                                                                                                                                                                                                                                                    <td>
+                            <div class="cell no-desktop ">
+                                <div class="precip">
+                                    <span> - </span>
+                                </div>
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                            <div class="cell no-mobile ">
+                                <span>-</span>
+                            </div>
+                        </td>
+                                                                                                                                                                                                                                                    <td>
+                            <div class="cell no-desktop ">
+                                <div class="precip">
+                                    <span> - </span>
+                                </div>
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                            <div class="cell no-mobile ">
+                                <span>-</span>
+                            </div>
+                        </td>
+                                                                                                                                                                                                                                                    <td>
+                            <div class="cell no-desktop now">
+                                <div class="precip">
+                                    <span> - </span>
+                                </div>
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                            <div class="cell no-mobile now">
+                                <span>-</span>
+                            </div>
+                        </td>
+                                                                                                                                                                                                                                                    <td>
+                            <div class="cell no-desktop ">
+                                <div class="precip">
+                                    <span> - </span>
+                                </div>
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                            <div class="cell no-mobile ">
+                                <span>-</span>
+                            </div>
+                        </td>
+                                                                                                                                                                                                                                                    <td>
+                            <div class="cell no-desktop ">
+                                <div class="precip">
+                                    <span> - </span>
+                                </div>
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                            <div class="cell no-mobile ">
+                                <span>-</span>
+                            </div>
+                        </td>
+                                        <td class="help-predictability-mobile"></td>
+                </tr>
+
+                
+                <tr class="precipprobs no-mobile no-rain" title="Probabilité de précipitation">
+                    <th>
+                        <div class="cell">
+                            <span class="glyph precipprob"></span>
+                            <span class="description">Probabilité de précipitation</span>
+                        </div>
+                    </th>
+                                                                    <td>
+                            <div class="cell ">
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                        </td>
+                                                                    <td>
+                            <div class="cell ">
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                        </td>
+                                                                    <td>
+                            <div class="cell ">
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                        </td>
+                                                                    <td>
+                            <div class="cell ">
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                        </td>
+                                                                    <td>
+                            <div class="cell ">
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                        </td>
+                                                                    <td>
+                            <div class="cell now">
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                        </td>
+                                                                    <td>
+                            <div class="cell ">
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                        </td>
+                                                                    <td>
+                            <div class="cell ">
+                                <span class="precip-prob ">0%</span>
+                            </div>
+                        </td>
+                                        <td class="help-predictability-mobile"></td>
+                </tr>
+
+                
+                <tr class="precips precip-hourly-title empty">
+                    <th>
+                        <div class="cell">
+                            <span class="glyph rain1h"></span>
+                            <span class="description">Précipitations horaires</span>
+                        </div>
+                    </th>
+                                                                
+                    
+                                            <td class="precip-bar-part">
+                            <div class="precip-bar-flex">
+                                <div class="cell precip-hourly class-0"><p class="precip-help">
+                                            00:00 à 01:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            01:00 à 02:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            02:00 à 03:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div></div>
+                        </td>
+                                            <td class="precip-bar-part">
+                            <div class="precip-bar-flex">
+                                <div class="cell precip-hourly class-0"><p class="precip-help">
+                                            03:00 à 04:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            04:00 à 05:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            05:00 à 06:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div></div>
+                        </td>
+                                            <td class="precip-bar-part">
+                            <div class="precip-bar-flex">
+                                <div class="cell precip-hourly class-0"><p class="precip-help">
+                                            06:00 à 07:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            07:00 à 08:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            08:00 à 09:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div></div>
+                        </td>
+                                            <td class="precip-bar-part">
+                            <div class="precip-bar-flex">
+                                <div class="cell precip-hourly class-0"><p class="precip-help">
+                                            09:00 à 10:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            10:00 à 11:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            11:00 à 12:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div></div>
+                        </td>
+                                            <td class="precip-bar-part">
+                            <div class="precip-bar-flex">
+                                <div class="cell precip-hourly class-0"><p class="precip-help">
+                                            12:00 à 13:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            13:00 à 14:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            14:00 à 15:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div></div>
+                        </td>
+                                            <td class="precip-bar-part">
+                            <div class="precip-bar-flex">
+                                <div class="cell precip-hourly class-0"><p class="precip-help">
+                                            15:00 à 16:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            16:00 à 17:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            17:00 à 18:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div></div>
+                        </td>
+                                            <td class="precip-bar-part">
+                            <div class="precip-bar-flex">
+                                <div class="cell precip-hourly class-0"><p class="precip-help">
+                                            18:00 à 19:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            19:00 à 20:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            20:00 à 21:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div></div>
+                        </td>
+                                            <td class="precip-bar-part">
+                            <div class="precip-bar-flex">
+                                <div class="cell precip-hourly class-0"><p class="precip-help">
+                                            21:00 à 22:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            22:00 à 23:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div><div class="cell precip-hourly class-0"><p class="precip-help">
+                                            23:00 à 00:00:<br/><strong>0%</strong> possibilité de précipitations dans la région.<br/><strong>0&thinsp;mm</strong> prédits par nos modèles locaux.                                        </p>
+                                    </div></div>
+                        </td>
+                                        <td class="help-predictability-mobile"></td>
+                </tr>
+
+                                    <tr class="precips precip-hourly-title no-rain">
+                        <th>
+                            <div class="cell">
+                                <span class="glyph rain1h"></span>
+                                <span class="description">Précipitations horaires</span>
+                            </div>
+                        </th>
+                        <td class="precip-bar-no-rain" colspan="8">
+                            <p>Aucune précipitation prévue</p>
+                        </td>
+                    </tr>
+                
+                
+                <tr class="rainspots no-rain" title="rainSPOT - Distribution des précipitations dans un rayon de 20 km">
+                    <th>
+                        <div class="cell no-mobile">
+                            <span class="glyph rain"></span>
+                            <span class="description">rainSPOT
+                                <span class="spot-description">Distribution des précipitations dans un rayon de 20 km</span>
+                            </span>
+                        </div>
+                        <div class="help-predictability-desktop" data-modal="/fr/meteo/semaine/popup">
+                            <span class="glyph help"></span>
+                        </div>
+                    </th>
+                                            <td><div class="cell"><div class="rainspot"><div class="icon"></div></div></div></td>
+                                            <td><div class="cell"><div class="rainspot"><div class="icon"></div></div></div></td>
+                                            <td><div class="cell"><div class="rainspot"><div class="icon"></div></div></div></td>
+                                            <td><div class="cell"><div class="rainspot"><div class="icon"></div></div></div></td>
+                                            <td><div class="cell"><div class="rainspot"><div class="icon"></div></div></div></td>
+                                            <td><div class="cell"><div class="rainspot"><div class="icon"></div></div></div></td>
+                                            <td><div class="cell"><div class="rainspot"><div class="icon"></div></div></div></td>
+                                            <td><div class="cell"><div class="rainspot"><div class="icon"></div></div></div></td>
+                                        <td>
+                        <div id="mobile_explain_popup" class="help-predictability-mobile" data-modal="/fr/meteo/semaine/popup">
+                            <span class="glyph help"></span>
+                        </div>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        
+        
+        
+            </div>
+
+    <div class="btn-group-for-standard-and-extend-view">
+                <div class="additional-parameters-toggle data-toggle-mobile" data-day=1>
+            <div class="data-toggle-mobile-btn">
+                                    <span class="center">Vue 1h</span>
+                    <span class="fasvg-8 fa-arrow-down"></span>
+                            </div>
+        </div>
+    </div>
+
+    
+    <div class="additional-parameters-toggle btn btn-primary" data-cy="toggleHourly">
+                    Vue horaire            </div>
+
+    <div class="col-12 predictability-message">
+        Les prévisions météorologiques ont une prévisibilité de très haute. Comparez différentes prévisions avec <a rel="nofollow" href="/fr/meteo/prevision/multimodel/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763">MultiModel</a>.                            </div>
+
+            <div class="col-12 report no-top-padding">
+            <h3>Rapport météo pour Aéroport international d&#039;Angoulême - Cognac</h3>
+            <p>Avant l&#039;aube du mercredi, le temps qui s&#039;installe est généralement clair, mais durant la journée quelques passages nuageux sont prévus. C&#039;est une journée ensoleilée. La température atteint au maximum 12 °C pendant la journée. Avant l&#039;aube du mercredi, il souffle une très légère brise (1 à 7 km/h). En début de journée, il souffle une légère brise (7 à 12 km/h). En après-midi, il souffle une petite brise (12 à 20 km/h). Durant la nuit et l&#039;après-midi, le vent vient du nord-est et en matinée, il vient du nord. Pour mercredi, les prévisions météo à Aéroport international d&#039;Angoulême - Cognac sont assez stables et devraient être correctes.</p>
+        </div>
+    
+    
+<div class="col-12 model-info">
+    <div class="celestial-bodies">
+        <div class="sun">
+            <div class="sun-icon">
+                <img src="https://static.meteoblue.com/assets/images/sun_ico.svg" alt="sun-icon">
+                <div class="uv-index">
+                    <span class="uv-risk" style="background-color: #4eb400"></span>
+                    UV 1                 </div>
+            </div>
+            <div class="times-rise-set">
+                                    <div title="Lever du soleil">
+                        <span role="img" aria-label="Lever du soleil">▲</span> 08:37                    </div>
+                    <div title="Coucher du soleil">
+                        <span role="img" aria-label="Coucher du soleil">▼</span> 17:21                    </div>
+                            </div>
+        </div>
+
+        <div class="moon">
+                        <div class="moon-icon" title="Dernier croissant (297.58°)">
+                
+
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0 0 360 360"
+     class="moon-dynamic-svg">
+    <title>Dernier croissant (298°)</title>
+    <rect y="360" width="360" height="50" style="fill: rgb(89, 96, 142);"></rect>
+    <rect y="315" width="360" height="50" style="fill: rgb(82, 86, 133);"></rect>
+    <rect y="270" width="360" height="50" style="fill: rgb(76, 76, 124);"></rect>
+    <rect y="225" width="360" height="50" style="fill: rgb(70, 66, 114);"></rect>
+    <rect y="180" width="360" height="50" style="fill: rgb(63, 57, 105);"></rect>
+    <rect y="135" width="360" height="50" style="fill: rgb(57, 47, 96);"></rect>
+    <rect y="90" width="360" height="50" style="fill: rgb(50, 37, 87);"></rect>
+    <rect y="45" width="360" height="50" style="fill: rgb(44, 27, 77);"></rect>
+    <rect y="0" width="360" height="50" style="fill: rgb(27, 17, 48);"></rect>
+    <circle cx="180" cy="175" r="135" style="fill: rgb(216, 216, 207);"></circle>
+    <circle cx="160" cy="120" r="12" style="fill: rgb(183, 169, 167);"></circle>
+    <circle cx="100" cy="160" r="18" style="fill: rgb(183, 169, 167);"></circle>
+    <circle cx="150" cy="175" r="22" style="fill: rgb(183, 169, 167);"></circle>
+    <circle cx="110" cy="220" r="16" style="fill: rgb(183, 169, 167);"></circle>
+    <path style="opacity: 0.5;"
+          d="M 180,40 C 360,45 360,305 180,310 C 124.84,305 124.84,45 180,40 z"></path>
+</svg>            </div>
+            <div class="times-rise-set">
+                <div title="Lever de la lune">
+                    <span role="img" aria-label="Lever de la lune">▲</span> 03:13                </div>
+                <div title="Coucher de la lune">
+                    <span role="img" aria-label="Coucher de la lune">▼</span> 13:34                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="misc">
+            <p>
+                <span class="label">Pression:</span>
+                <span class="value">1033 hPa</span>
+            </p>
+            <p>
+                <span class="label">Fuseau horaire:</span>
+                <span class="value">CET (UTC +01:00h) </span>
+            </p>
+    </div>
+</div>
+</div>
+
+<script>
+    function toggleSeasurf(dayIndex) {
+        const seasurfTableHeading = document.getElementById('sea_surf_mobile_heading' + dayIndex)
+        const seasurfTable = document.getElementById('seasurf_mobile_table' + dayIndex );
+        const arrowIcon = document.getElementById('arrow_in_sea_surf_toggle_button');
+        seasurfTable.classList.toggle("hidden");
+        seasurfTableHeading.classList.toggle("hidden");
+        if( arrowIcon.classList.contains("fa-arrow-up")){
+            arrowIcon.classList.remove("fa-arrow-up");
+            arrowIcon.classList.add("fa-arrow-down");
+        }else{
+            arrowIcon.classList.remove("fa-arrow-down");
+            arrowIcon.classList.add("fa-arrow-up");
+        }
+    }
+
+</script>
+
+                            </div>
+                    <div id="day2" class="tab   tab-after-active   ">
+                <a rel="nofollow"                 href="/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=2"
+                data-mobile="/fr/meteo/semaine/oneday/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=2"
+                data-day="2">
+                                        <div class="tab-content">
+                                                <time datetime="2024-12-26" class="date">
+                            <div class="tab-day-short">
+                                Jeu                            </div>
+                            <div class="tab-day-long">
+                                                                    Demain                                                            </div>
+                        </time>
+
+                                                                                                
+                                                   
+                         
+                         
+                        
+                        <div class="weather day  ">
+                            <div class="weather-pictogram-wrapper day ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                    alt="Partiellement nuageux"
+                                    title="Partiellement nuageux"
+                                />
+                            </div>
+                            <div class="weather-pictogram-wrapper-second night ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/05_inight.svg"
+                                    alt="Brouillard"
+                                    title="Brouillard"
+                                />
+                            </div>
+                        </div>
+
+                        <div class="temps">
+                            <div class="tab-temp-max" title="Température maximale"                                title="Heures d'ensoleillement"                                style="background-color: #297B5D; color: #FFFFFF">
+                                9&nbsp;°C                            </div>
+                            <div class="tab-temp-min" title="Température minimale"                                style="background-color: #00E452; color: #000000">
+                                2&nbsp;°C                            </div>
+                        </div>
+                        <div class="data">
+                            <div class="wind"  title="Vitesse du vent" >
+                                <span class="glyph winddir NE"></span>
+                                15 km/h                             </div>
+                            <div  title="Quantité de précipitations"   class="tab-precip dry">
+                                <span class="glyph rain"></span>
+                                -                            </div>
+                            <div title="Heures d'ensoleillement" class="tab-sun">
+                                <span class="glyph sunshine"></span>
+                                                                    5 h                                                            </div>
+                        </div>
+                        <div class="tab-predictability"
+                            title="Prévisibilité : très haute">
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                    </div>
+                    </div>
+                </a>
+            </div>
+            <div class="tab-detail" data-day="2">
+                            </div>
+                    <div id="day3" class="tab    ">
+                <a rel="nofollow"                 href="/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=3"
+                data-mobile="/fr/meteo/semaine/oneday/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=3"
+                data-day="3">
+                                        <div class="tab-content">
+                                                <time datetime="2024-12-27" class="date">
+                            <div class="tab-day-short">
+                                Ven                            </div>
+                            <div class="tab-day-long">
+                                                                    27/12                                                            </div>
+                        </time>
+
+                                                                                                
+                                                   
+                         
+                         
+                        
+                        <div class="weather day  ">
+                            <div class="weather-pictogram-wrapper day ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/05_iday.svg"
+                                    alt="Brouillard"
+                                    title="Brouillard"
+                                />
+                            </div>
+                            <div class="weather-pictogram-wrapper-second night ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/05_inight.svg"
+                                    alt="Brouillard"
+                                    title="Brouillard"
+                                />
+                            </div>
+                        </div>
+
+                        <div class="temps">
+                            <div class="tab-temp-max" title="Température maximale"                                title="Heures d'ensoleillement"                                style="background-color: #297B5D; color: #FFFFFF">
+                                9&nbsp;°C                            </div>
+                            <div class="tab-temp-min" title="Température minimale"                                style="background-color: #00E452; color: #000000">
+                                2&nbsp;°C                            </div>
+                        </div>
+                        <div class="data">
+                            <div class="wind"  title="Vitesse du vent" >
+                                <span class="glyph winddir SE"></span>
+                                6 km/h                             </div>
+                            <div  title="Quantité de précipitations"   class="tab-precip dry">
+                                <span class="glyph rain"></span>
+                                -                            </div>
+                            <div title="Heures d'ensoleillement" class="tab-sun">
+                                <span class="glyph sunshine"></span>
+                                                                    0 h                                                            </div>
+                        </div>
+                        <div class="tab-predictability"
+                            title="Prévisibilité : haute">
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability "></span>
+                                                    </div>
+                    </div>
+                </a>
+            </div>
+            <div class="tab-detail" data-day="3">
+                            </div>
+                    <div id="day4" class="tab    ">
+                <a rel="nofollow"                 href="/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=4"
+                data-mobile="/fr/meteo/semaine/oneday/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=4"
+                data-day="4">
+                                        <div class="tab-content">
+                                                <time datetime="2024-12-28" class="date">
+                            <div class="tab-day-short">
+                                Sam                            </div>
+                            <div class="tab-day-long">
+                                                                    28/12                                                            </div>
+                        </time>
+
+                                                                                                
+                                                   
+                         
+                         
+                        
+                        <div class="weather day  ">
+                            <div class="weather-pictogram-wrapper day ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/05_iday.svg"
+                                    alt="Brouillard"
+                                    title="Brouillard"
+                                />
+                            </div>
+                            <div class="weather-pictogram-wrapper-second night ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/03_inight.svg"
+                                    alt="Partiellement nuageux"
+                                    title="Partiellement nuageux"
+                                />
+                            </div>
+                        </div>
+
+                        <div class="temps">
+                            <div class="tab-temp-max" title="Température maximale"                                title="Heures d'ensoleillement"                                style="background-color: #297B5D; color: #FFFFFF">
+                                8&nbsp;°C                            </div>
+                            <div class="tab-temp-min" title="Température minimale"                                style="background-color: #00E452; color: #000000">
+                                3&nbsp;°C                            </div>
+                        </div>
+                        <div class="data">
+                            <div class="wind"  title="Vitesse du vent" >
+                                <span class="glyph winddir W"></span>
+                                6 km/h                             </div>
+                            <div  title="Quantité de précipitations"   class="tab-precip dry">
+                                <span class="glyph rain"></span>
+                                -                            </div>
+                            <div title="Heures d'ensoleillement" class="tab-sun">
+                                <span class="glyph sunshine"></span>
+                                                                    0 h                                                            </div>
+                        </div>
+                        <div class="tab-predictability"
+                            title="Prévisibilité : haute">
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability "></span>
+                                                    </div>
+                    </div>
+                </a>
+            </div>
+            <div class="tab-detail" data-day="4">
+                            </div>
+                    <div id="day5" class="tab    ">
+                <a rel="nofollow"                 href="/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=5"
+                data-mobile="/fr/meteo/semaine/oneday/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=5"
+                data-day="5">
+                                        <div class="tab-content">
+                                                <time datetime="2024-12-29" class="date">
+                            <div class="tab-day-short">
+                                Dim                            </div>
+                            <div class="tab-day-long">
+                                                                    29/12                                                            </div>
+                        </time>
+
+                                                                                                
+                                                   
+                         
+                         
+                        
+                        <div class="weather day  ">
+                            <div class="weather-pictogram-wrapper day ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/20_iday.svg"
+                                    alt="Partiellement nuageux"
+                                    title="Partiellement nuageux"
+                                />
+                            </div>
+                            <div class="weather-pictogram-wrapper-second night ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/03_inight.svg"
+                                    alt="Partiellement nuageux"
+                                    title="Partiellement nuageux"
+                                />
+                            </div>
+                        </div>
+
+                        <div class="temps">
+                            <div class="tab-temp-max" title="Température maximale"                                title="Heures d'ensoleillement"                                style="background-color: #297B5D; color: #FFFFFF">
+                                8&nbsp;°C                            </div>
+                            <div class="tab-temp-min" title="Température minimale"                                style="background-color: #00E452; color: #000000">
+                                3&nbsp;°C                            </div>
+                        </div>
+                        <div class="data">
+                            <div class="wind"  title="Vitesse du vent" >
+                                <span class="glyph winddir S"></span>
+                                5 km/h                             </div>
+                            <div  title="Quantité de précipitations"   class="tab-precip dry">
+                                <span class="glyph rain"></span>
+                                -                            </div>
+                            <div title="Heures d'ensoleillement" class="tab-sun">
+                                <span class="glyph sunshine"></span>
+                                                                    1 h                                                            </div>
+                        </div>
+                        <div class="tab-predictability"
+                            title="Prévisibilité : haute">
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability "></span>
+                                                    </div>
+                    </div>
+                </a>
+            </div>
+            <div class="tab-detail" data-day="5">
+                            </div>
+                    <div id="day6" class="tab    ">
+                <a rel="nofollow"                 href="/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=6"
+                data-mobile="/fr/meteo/semaine/oneday/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=6"
+                data-day="6">
+                                        <div class="tab-content">
+                                                <time datetime="2024-12-30" class="date">
+                            <div class="tab-day-short">
+                                Lun                            </div>
+                            <div class="tab-day-long">
+                                                                    30/12                                                            </div>
+                        </time>
+
+                                                                                                
+                                                   
+                         
+                         
+                        
+                        <div class="weather day  ">
+                            <div class="weather-pictogram-wrapper day ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                    alt="Partiellement nuageux"
+                                    title="Partiellement nuageux"
+                                />
+                            </div>
+                            <div class="weather-pictogram-wrapper-second night ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/05_inight.svg"
+                                    alt="Brouillard"
+                                    title="Brouillard"
+                                />
+                            </div>
+                        </div>
+
+                        <div class="temps">
+                            <div class="tab-temp-max" title="Température maximale"                                title="Heures d'ensoleillement"                                style="background-color: #10B87A; color: #000000">
+                                7&nbsp;°C                            </div>
+                            <div class="tab-temp-min" title="Température minimale"                                style="background-color: #00E452; color: #000000">
+                                2&nbsp;°C                            </div>
+                        </div>
+                        <div class="data">
+                            <div class="wind"  title="Vitesse du vent" >
+                                <span class="glyph winddir NE"></span>
+                                6 km/h                             </div>
+                            <div  title="Quantité de précipitations"   class="tab-precip dry">
+                                <span class="glyph rain"></span>
+                                -                            </div>
+                            <div title="Heures d'ensoleillement" class="tab-sun">
+                                <span class="glyph sunshine"></span>
+                                                                    2 h                                                            </div>
+                        </div>
+                        <div class="tab-predictability"
+                            title="Prévisibilité : haute">
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability "></span>
+                                                    </div>
+                    </div>
+                </a>
+            </div>
+            <div class="tab-detail" data-day="6">
+                            </div>
+                    <div id="day7" class="tab last    ">
+                <a rel="nofollow"                 href="/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=7"
+                data-mobile="/fr/meteo/semaine/oneday/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763?day=7"
+                data-day="7">
+                                        <div class="tab-content">
+                                                <time datetime="2024-12-31" class="date">
+                            <div class="tab-day-short">
+                                Mar                            </div>
+                            <div class="tab-day-long">
+                                                                    31/12                                                            </div>
+                        </time>
+
+                                                                                                
+                                                   
+                         
+                         
+                        
+                        <div class="weather day  ">
+                            <div class="weather-pictogram-wrapper day ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/20_iday.svg"
+                                    alt="Partiellement nuageux"
+                                    title="Partiellement nuageux"
+                                />
+                            </div>
+                            <div class="weather-pictogram-wrapper-second night ">
+                                <img
+                                    class="weather-pictogram "
+                                    src="https://static.meteoblue.com/assets/images/picto/04_inight.svg"
+                                    alt="Ciel couvert"
+                                    title="Ciel couvert"
+                                />
+                            </div>
+                        </div>
+
+                        <div class="temps">
+                            <div class="tab-temp-max" title="Température maximale"                                title="Heures d'ensoleillement"                                style="background-color: #297B5D; color: #FFFFFF">
+                                8&nbsp;°C                            </div>
+                            <div class="tab-temp-min" title="Température minimale"                                style="background-color: #00E452; color: #000000">
+                                2&nbsp;°C                            </div>
+                        </div>
+                        <div class="data">
+                            <div class="wind"  title="Vitesse du vent" >
+                                <span class="glyph winddir S"></span>
+                                13 km/h                             </div>
+                            <div  title="Quantité de précipitations"   class="tab-precip dry">
+                                <span class="glyph rain"></span>
+                                -                            </div>
+                            <div title="Heures d'ensoleillement" class="tab-sun">
+                                <span class="glyph sunshine"></span>
+                                                                    0 h                                                            </div>
+                        </div>
+                        <div class="tab-predictability"
+                            title="Prévisibilité : moyenne">
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability  high-predictability "></span>
+                                                            <span class="glyph predictability "></span>
+                                                            <span class="glyph predictability "></span>
+                                                    </div>
+                    </div>
+                </a>
+            </div>
+            <div class="tab-detail" data-day="7">
+                            </div>
+            </div>
+</div>
+
+<div class="col-12 socials">
+    <div class="social-wrapper-with-twitter">
+        <a class="swiss-made-logo" href="//content.meteoblue.com/fr/about-us" rel="noreferrer" target=”_blank” >
+                            <img alt="Quality made in Switzerland - meteoblue - About us" src="https://static.meteoblue.com/assets/images/bottomLinks/swiss_made2.svg"/>
+                    </a>
+
+        <div id="share" class="social" style="width:unset;">
+                                <span>Partager cette prévision</span><!-- Partager les prévisions change after translations -->
+                <a href="https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.meteoblue.com%2Ffr%2Fmeteo%2Fsemaine%2Fa%25c3%25a9roport-international-d%2527angoul%25c3%25aame---cognac_france_6694763" target="_blank" rel="noreferrer"  data-network="WhatsApp" aria-label="Partager sur WhatsApp">
+                    <span class="fasvg-25 fa-whatsapp-share fa-fadein opacity06"></span>
+                </a>
+                <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.meteoblue.com%2Ffr%2Fmeteo%2Fsemaine%2Fa%25c3%25a9roport-international-d%2527angoul%25c3%25aame---cognac_france_6694763" target="_blank" rel="noreferrer" data-network="Facebook" aria-label="Partager sur Facebook">
+                    <span class="fasvg-25 fa-facebook-share fa-fadein opacity03"></span>
+                </a>
+                <a href="https://www.twitter.com/share?url=https%3A%2F%2Fwww.meteoblue.com%2Ffr%2Fmeteo%2Fsemaine%2Fa%25c3%25a9roport-international-d%2527angoul%25c3%25aame---cognac_france_6694763" target="_blank" rel="noreferrer" data-network="Twitter" aria-label="Partager sur Twitter">
+                    <span class="fasvg-25 fa-twitter-share fa-fadein opacity02"></span>
+                </a>
+                <a href="https://telegram.me/share/url?url=https%3A%2F%2Fwww.meteoblue.com%2Ffr%2Fmeteo%2Fsemaine%2Fa%25c3%25a9roport-international-d%2527angoul%25c3%25aame---cognac_france_6694763" target="_blank" rel="noreferrer" data-network="Telegram" aria-label="Partager sur Telegram">
+                    <span class="fasvg-25 fa-telegram-share fa-fadein opacity05"></span>
+                </a>
+                <!-- <a href="mailto:fillinthislink" aria-label="Partager par e-mail">
+                    <span class="fasvg-25 fa-email-share fa-fadein opacity06"></span>
+                </a> -->
+                <textarea class="invisible-text" id="copyText">Copy this text</textarea>
+                <label class="invisible-text" for="copyText">Copier dans le presse-papier</label>
+                <div style="cursor: pointer;" onclick="shareCopy()">
+                    <span class="fasvg-25 fa-link-share fa-fadein opacity05"></span>
+                </div>
+        </div>
+        
+        <script>
+            function shareCopy(){
+                var copyText = document.getElementById("copyText");
+                copyText.innerHTML = window.location.href;
+                copyText.select();
+                document.execCommand('copy');
+                alert("Copié dans le presse-papiers");
+            }
+        </script>
+    </div>
+
+    
+        <div class="centered hide-desktop">
+        <!-- /12231147/mb_mobileWEb_banner -->
+        <div class="centered" id='div-gpt-ad-1681336466256-0' style='min-width: 300px; min-height: 50px;'></div>
+    <a class="ad1-disable" href="/fr/ad-free">
+            meteoblue Ad-free 9 €
+    </a>
+    </div>
+ 
+</div>
+
+
+    <div id='div-gpt-ad-1684325002857-0' class="col-12 hide-phones centered" style="min-width: 468px; min-height: 90px;"></div>
+
+
+
+
+
+
+
+
+
+    
+    
+<div class="bloo meteogram-scrollable">
+    
+    <h2 class="meteogram-heading" id="meteogram">Météo heure par heure à Aéroport international d&#039;Angoulême - Cognac</h2>
+    <div class="col-12">
+        <div class="bloo-content meteogram" style="height: 0; padding-bottom: 84%">
+            <div class='loading'></div><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='image-lazyload' data-original='//my.meteoblue.com/images/meteogram?temperature_units=C&amp;windspeed_units=kmh&amp;precipitation_units=mm&amp;darkmode=false&amp;iso2=fr&amp;lat=45.729&amp;lon=0.219&amp;asl=132&amp;tz=Europe%2FParis&amp;dpi=72&amp;apikey=jhMJTOUVRNvs25m4&amp;lang=fr&amp;location_name=A%C3%A9roport+international+d%27Angoul%C3%AAme+-+Cognac&amp;sig=9053e44a4e816591f63fc770172f744f' data-srcset='//my.meteoblue.com/images/meteogram?temperature_units=C&amp;windspeed_units=kmh&amp;precipitation_units=mm&amp;darkmode=false&amp;iso2=fr&amp;lat=45.729&amp;lon=0.219&amp;asl=132&amp;tz=Europe%2FParis&amp;dpi=100&amp;apikey=jhMJTOUVRNvs25m4&amp;lang=fr&amp;location_name=A%C3%A9roport+international+d%27Angoul%C3%AAme+-+Cognac&amp;sig=b4a8a813374fbf46a3c6129a23f0423f 2x' data-name="5-days meteogram" alt='meteoblue'/>        </div>
+        <details>
+            <summary class="optional">
+                Notre météogramme 5 jours pour Aéroport international d&#039;Angoulême - Cognac offre toutes les informations météorologiques synthétisés en 3 graphes : 
+                <span>[Plus]</span>
+            </summary>
+            <ul class="optional">
+                <li>Tableau des températures avec pictogrammes météorologiques. Le fond jaune indique la lumière du jour.</li>
+                <li>Nuages à différentes altitudes : de peu de nuages (gris clair) à ciel nuageux (gris foncé). L'histogramme bleu foncé montre les précipitations horaires, et le bleu clair les averses. Une astérisque indique de possibles chutes de neige.</li>
+                <li>La vitesse du vent est en bleu et les rafales en vert. Les flèches indiquent la direction du vent.</li>
+            </ul>
+            <p class="optional">Vous pouvez intégrer ce météogramme dans votre propre site web en utilisant le code HTML suivant. En faisant cela, vous acceptez nos <a href='https://content.meteoblue.com/fr/content/view/full/4763' rel='noreferrer' target='_blank'>conditions d'utilisation non commerciale</a>.</p>
+            <div class="embed-meteogram">
+                <input type="text" id="meteogram_embed" class="copy-selection" readonly style="width: 100%;" tabindex="-1" value='<img src="https://my.meteoblue.com/images/meteogram?temperature_units=C&amp;windspeed_units=kmh&amp;precipitation_units=mm&amp;darkmode=false&amp;iso2=fr&amp;lat=45.729&amp;lon=0.219&amp;asl=132&amp;tz=Europe%2FParis&amp;apikey=jhMJTOUVRNvs25m4&amp;lang=fr&amp;location_name=A%C3%A9roport+international+d%27Angoul%C3%AAme+-+Cognac&amp;sig=d91c920c89332873ebc8c9be2e65a02c" srcset="https://my.meteoblue.com/images/meteogram?temperature_units=C&amp;windspeed_units=kmh&amp;precipitation_units=mm&amp;darkmode=false&amp;iso2=fr&amp;lat=45.729&amp;lon=0.219&amp;asl=132&amp;tz=Europe%2FParis&amp;apikey=jhMJTOUVRNvs25m4&amp;lang=fr&amp;location_name=A%C3%A9roport+international+d%27Angoul%C3%AAme+-+Cognac&amp;dpi=100&amp;sig=bda093e5e0336f72b444f10b57997b33 2x" alt="Meteogram - 5 days - Aéroport international d&#039;Angoulême - Cognac"><a href="https://www.meteoblue.com/fr/meteo/semaine/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" target="_blank" rel="noreferrer" style="display: block;">Météo Aéroport international d&#039;Angoulême - Cognac - meteoblue</a>'>
+                <label for="meteogram_embed">Meteogram lien</label>
+                <button id="copy_button" class="copy-button">Copier</button>
+            </div>
+        </details>
+    </div>
+</div>
+
+    
+    
+<div id="satellite" class="satellite grid">
+        <h2 class="nowhitespace">Les images satellites actuelles, France</h2>
+    <div class="map-wrapper">
+        
+        <div class="player-container map-satelite" data-config='{"center":[0.219,45.729],"zoom":5,"inventory":"https:\/\/maps-api.meteoblue.com\/v1\/map\/inventory\/filter?maps=satellite,obsTemperature,obsPrecipitation&lang=fr&temperatureUnit=\u00b0C&lengthUnit=metric&enableOpenlayersLicensing=true&internal=true","canUseRestricted":true,"timezoneOffsetInSeconds":3600,"timezoneAbbreviation":"CET","marker":true,"showFullscreenOption":true,"persistSatelliteVariant":true}' data-name="satellite"></div>
+
+        <div id="satellite-description" class="satellite-description">
+            <details>
+                <summary class="summary-satellite">
+                        Le marqueur est placé sur <strong>Aéroport international d&#039;Angoulême - Cognac</strong>.                        <span>[Plus]</span>
+                </summary>
+                <p>
+                    L'image satellite en temps réel combine la lumière visible pendant la journée et le rayonnement infrarouge pendant la nuit.                    La nuit, l'image n'est pas sombre car le rayonnement infrarouge permet de détecter les différences de température.                    Malheureusement, les nuages bas et le brouillard sont difficiles à distinguer des températures au sol et peuvent donc être presque invisibles pendant la nuit.                    Les images des satellites Météosat pour l'Europe sont mises à jour en temps réel toutes les 5 minutes. Les images GOES-16/GOES-17 (Amérique du Nord et du Sud) et Himawari (Asie) sont mises à jour toutes les 10 minutes.                </p>
+                    <p>
+                        Les précipitations sont estimées à partir de radars et de satellites. Les estimations des précipitations par satellite sont moins précises la nuit que le jour.                    <p>
+            </details>
+            <p>
+                
+                &copy; 2024 meteoblue, <a href="http://www.noaa.gov/">NOAA Satellites GOES-16</a> and <a href="http://www.eumetsat.int/">EUMETSAT</a>. Données de foudre fournies par <a rel="nofollow" href="http://www.nowcast.de/">nowcast</a>.            </p>
+        </div>
+    </div>
+</div>
+
+<script>
+    var mb = mb || {};
+
+    
+    mb.mapsTranslations = {"Extended time ranges require a premium subscription":"Les plages horaires \u00e9tendues ont besoin d'un abonnement premium","About point+":"A propos de point+","Screenshot":"Capture d'\u00e9cran"};
+</script>
+
+    
+    <div class="twitter-follow-wrapper">
+        <a href="https://twitter.com/intent/follow?original_referer=https%253A%252F%252Fdeveloper.twitter.com%252Fen%252Fdocs%252Ftwitter-for-websites%252Ffollow-button%252Foverview&ref_src=twsrc%255Etfw%257Ctwcamp%255Ebuttonembed%257Ctwterm%255Efollow%257Ctwgr%255meteoblue&screen_name=meteoblue">
+            <span class="twitter-follow">Suivre meteoblue</span>
+            <span>pour des informations météorologiques intéressantes</span>
+        </a>
+    </div>
+ 
+
+    
+    
+<div id="radar" class="radar grid">
+
+    
+                        
+            <h2 class="nowhitespace">Radar et prévision de précipitation à court terme, France</h2>
+            
+    <div class="map-wrapper">
+
+        
+        <div class="player-container map-radar" data-config='{"center":[0.219,45.729],"zoom":9,"inventory":"https:\/\/maps-api.meteoblue.com\/v1\/map\/inventory\/filter?maps=radar&lang=fr&enableOpenlayersLicensing=true&internal=true","canUseRestricted":true,"timezoneOffsetInSeconds":3600,"timezoneAbbreviation":"CET","showSidebar":false,"showAttribution":true,"defaults":{"variant":"radarMapEU"},"marker":true,"showFullscreenOption":true}' data-name="radar"></div>
+
+        <div id="radar-description">
+            <div class="radar-color-bar">
+                <div class="radar-color drizzle">
+                    Bruine                </div>
+                <div class="radar-color light">
+                    Légère                </div>
+                <div class="radar-color moderate">
+                    Modéré                </div>
+                <div class="radar-color heavy">
+                    Fort                </div>
+                <div class="radar-color very-heavy">
+                    Très fort                </div>
+                <div class="radar-color hail">
+                    Grêle                </div>
+            </div>
+
+            <div class="radar-text">
+                <p>
+                    Le marqueur est placé sur Aéroport international d&#039;Angoulême - Cognac.
+                                            Cette animation montre le <strong>radar des précipitations</strong> pour la plage horaire sélectionnée, ainsi qu'une <strong>2h prévision</strong>.                                        
+                    Les croix orange indiquent la foudre. Données fournies par <a rel="nofollow" href="https://www.nowcast.de">nowcast.de</a> (disponibles aux États-Unis, en Europe et en Australie).                    Une bruine ou une légère chute de neige peut être invisible pour le radar. <strong>L'intensité des précipitations</strong> est codée par couleur, allant du turquoise au rouge.                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var mb = mb || {};
+
+    
+    mb.mapsTranslations = {"Extended time ranges require a premium subscription":"Les plages horaires \u00e9tendues ont besoin d'un abonnement premium","About point+":"A propos de point+","Screenshot":"Capture d'\u00e9cran"};
+</script>
+    
+
+
+
+
+    
+
+
+
+
+<div class="temp-news-mobile">
+                        
+<div id="news">
+    
+                            <article class="news" itemscope itemtype="http://schema.org/BlogPosting">
+            <div class="news-heading">Nouvelles </div>
+            <a href="https://www.meteoblue.com/fr/blog/article/show/40449_Cartes+de+chaleur+urbaine+plus+%60smart%60%3A+mesures+en+temps+r%C3%A9el+pour+V%C3%A9rone+%28beta%29" >
+                                    <div class="news-img" itemprop="mainEntityOfPage">
+                        <img alt="Cartes de chaleur urbaine plus `smart`: mesures en temps réel pour Vérone (beta)" itemprop="image" loading="lazy" src="https://mb-richtexteditor.s3-eu-west-1.amazonaws.com/20241217141924_Screenshot2024-12-06at11.07.39_440x220.jpg" srcset="https://mb-richtexteditor.s3-eu-west-1.amazonaws.com/20241217141924_Screenshot2024-12-06at11.07.39_880x440.jpg 2x"/>
+                    </div>
+                                <div class="news-text">
+                    <h3 itemprop="headline"> Cartes de chaleur urbaine plus `smart`: mesures en temps réel pour Vérone (beta) </h3>         
+                    <meta itemprop="mainEntityOfPage" content="https://www.meteoblue.com/fr/blog/article/show/40449_Cartes+de+chaleur+urbaine+plus+%60smart%60%3A+mesures+en+temps+r%C3%A9el+pour+V%C3%A9rone+%28beta%29">
+                    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+                        <meta itemprop="datePublished" content="2024-12-17T14:39:39+05:00">
+                        <meta itemprop="dateModified" content="2024-12-24T10:52:37+05:00">
+                        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                            <meta itemprop="url" content="https://static.meteoblue.com/assets/images/logo/launcher-icon-4x.png">
+                            <meta itemprop="width" content="192">
+                            <meta itemprop="height" content="60">
+                        </div>
+                        <meta itemprop="name" content="meteoblue AG">
+                    </div>
+                    <p itemprop="description">Découvrez les données de température et de précipitations en temps réel dans la carte de chaleur urbaine meteoblue améliorée pour Vérone. Cette version beta offre de meilleures perspectives grâce à des mesures réelles, ouvrant la voie à de futurs déploiements dans d`autres villes</p>
+                    <meta itemprop="author" content="demi.stonjek">
+                    <div class="read-on" itemprop="url" title="Nouvelles">Poursuivre la lecture</div> 
+                </div>
+            </a>
+        </article>
+                            <article class="news" itemscope itemtype="http://schema.org/BlogPosting">
+            <div class="news-heading">Nouvelles </div>
+            <a href="https://www.meteoblue.com/fr/blog/article/show/40453_Joyeuses+f%C3%AAtes+%C3%A0+tous+les+utilisateurs+de+meteoblue+%21" >
+                                    <div class="news-img" itemprop="mainEntityOfPage">
+                        <img alt="Joyeuses fêtes à tous les utilisateurs de meteoblue !" itemprop="image" loading="lazy" src="https://mb-richtexteditor.s3-eu-west-1.amazonaws.com/20241217134950_p-christmas-banner_440x220.jpg" srcset="https://mb-richtexteditor.s3-eu-west-1.amazonaws.com/20241217134950_p-christmas-banner_880x440.jpg 2x"/>
+                    </div>
+                                <div class="news-text">
+                    <h3 itemprop="headline"> Joyeuses fêtes à tous les utilisateurs de meteoblue ! </h3>         
+                    <meta itemprop="mainEntityOfPage" content="https://www.meteoblue.com/fr/blog/article/show/40453_Joyeuses+f%C3%AAtes+%C3%A0+tous+les+utilisateurs+de+meteoblue+%21">
+                    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+                        <meta itemprop="datePublished" content="2024-12-24T11:54:00+05:00">
+                        <meta itemprop="dateModified" content="2024-12-24T10:54:35+05:00">
+                        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                            <meta itemprop="url" content="https://static.meteoblue.com/assets/images/logo/launcher-icon-4x.png">
+                            <meta itemprop="width" content="192">
+                            <meta itemprop="height" content="60">
+                        </div>
+                        <meta itemprop="name" content="meteoblue AG">
+                    </div>
+                    <p itemprop="description">En ce début de période de fêtes, nous sommes ravis de poursuivre notre chère tradition de rendre à notre communauté ce qu`elle nous a donné. Du 24 décembre au 1er janvier, les fonctionnalités point+ seront gratuites pour tous !</p>
+                    <meta itemprop="author" content="michaelaschloegl">
+                    <div class="read-on" itemprop="url" title="Nouvelles">Poursuivre la lecture</div> 
+                </div>
+            </a>
+        </article>
+    </div>            </div>
+
+<!-- Weather report from DWD -->
+
+
+<h2 id="popular_places">Météo autour de Aéroport international d&#039;Angoulême - Cognac</h2>
+<div class="col-12 nearby-locations-with-weather">
+        
+
+
+    <ul>
+                                                                            <li>
+                    <a
+                        href="/fr/meteo/semaine/angoul%c3%aame_france_3037598"
+                        title="Météo Angoulême"                    >
+                        <div class="flag-and-city">
+                            <img
+                                class="country-flag"
+                                alt="fr"
+                                src="/assets/images/flags/fr.svg"
+                                loading="lazy"
+                            >
+                            Angoulême                        </div>
+                        <div class="weather-pictogram-and-temperature">
+                            <img
+                                class="weather-pictogram"
+                                src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                alt="Partiellement nuageux"
+                                title="Partiellement nuageux"
+                            />
+                            <div class="temperature">
+                                12                                °C /
+                                8                                °C                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                                                        <li>
+                    <a
+                        href="/fr/meteo/semaine/p%c3%a9rigueux_france_2987967"
+                        title="Météo Périgueux"                    >
+                        <div class="flag-and-city">
+                            <img
+                                class="country-flag"
+                                alt="fr"
+                                src="/assets/images/flags/fr.svg"
+                                loading="lazy"
+                            >
+                            Périgueux                        </div>
+                        <div class="weather-pictogram-and-temperature">
+                            <img
+                                class="weather-pictogram"
+                                src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                alt="Partiellement nuageux"
+                                title="Partiellement nuageux"
+                            />
+                            <div class="temperature">
+                                13                                °C /
+                                7                                °C                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                                                        <li>
+                    <a
+                        href="/fr/meteo/semaine/cognac_france_3024440"
+                        title="Météo Cognac"                    >
+                        <div class="flag-and-city">
+                            <img
+                                class="country-flag"
+                                alt="fr"
+                                src="/assets/images/flags/fr.svg"
+                                loading="lazy"
+                            >
+                            Cognac                        </div>
+                        <div class="weather-pictogram-and-temperature">
+                            <img
+                                class="weather-pictogram"
+                                src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                alt="Partiellement nuageux"
+                                title="Partiellement nuageux"
+                            />
+                            <div class="temperature">
+                                13                                °C /
+                                9                                °C                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                                                        <li>
+                    <a
+                        href="/fr/meteo/semaine/jonzac_france_3012266"
+                        title="Météo Jonzac"                    >
+                        <div class="flag-and-city">
+                            <img
+                                class="country-flag"
+                                alt="fr"
+                                src="/assets/images/flags/fr.svg"
+                                loading="lazy"
+                            >
+                            Jonzac                        </div>
+                        <div class="weather-pictogram-and-temperature">
+                            <img
+                                class="weather-pictogram"
+                                src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                alt="Partiellement nuageux"
+                                title="Partiellement nuageux"
+                            />
+                            <div class="temperature">
+                                12                                °C /
+                                9                                °C                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                                                        <li>
+                    <a
+                        href="/fr/meteo/semaine/rochechouart_france_2983291"
+                        title="Météo Rochechouart"                    >
+                        <div class="flag-and-city">
+                            <img
+                                class="country-flag"
+                                alt="fr"
+                                src="/assets/images/flags/fr.svg"
+                                loading="lazy"
+                            >
+                            Rochechouart                        </div>
+                        <div class="weather-pictogram-and-temperature">
+                            <img
+                                class="weather-pictogram"
+                                src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                alt="Partiellement nuageux"
+                                title="Partiellement nuageux"
+                            />
+                            <div class="temperature">
+                                11                                °C /
+                                7                                °C                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                                                        <li>
+                    <a
+                        href="/fr/meteo/semaine/nontron_france_2990140"
+                        title="Météo Nontron"                    >
+                        <div class="flag-and-city">
+                            <img
+                                class="country-flag"
+                                alt="fr"
+                                src="/assets/images/flags/fr.svg"
+                                loading="lazy"
+                            >
+                            Nontron                        </div>
+                        <div class="weather-pictogram-and-temperature">
+                            <img
+                                class="weather-pictogram"
+                                src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                alt="Partiellement nuageux"
+                                title="Partiellement nuageux"
+                            />
+                            <div class="temperature">
+                                11                                °C /
+                                7                                °C                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                                                        <li>
+                    <a
+                        href="/fr/meteo/semaine/confolens_france_3023919"
+                        title="Météo Confolens"                    >
+                        <div class="flag-and-city">
+                            <img
+                                class="country-flag"
+                                alt="fr"
+                                src="/assets/images/flags/fr.svg"
+                                loading="lazy"
+                            >
+                            Confolens                        </div>
+                        <div class="weather-pictogram-and-temperature">
+                            <img
+                                class="weather-pictogram"
+                                src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                alt="Partiellement nuageux"
+                                title="Partiellement nuageux"
+                            />
+                            <div class="temperature">
+                                11                                °C /
+                                7                                °C                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                                                        <li>
+                    <a
+                        href="/fr/meteo/semaine/boulazac_france_3031180"
+                        title="Météo Boulazac"                    >
+                        <div class="flag-and-city">
+                            <img
+                                class="country-flag"
+                                alt="fr"
+                                src="/assets/images/flags/fr.svg"
+                                loading="lazy"
+                            >
+                            Boulazac                        </div>
+                        <div class="weather-pictogram-and-temperature">
+                            <img
+                                class="weather-pictogram"
+                                src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                alt="Partiellement nuageux"
+                                title="Partiellement nuageux"
+                            />
+                            <div class="temperature">
+                                12                                °C /
+                                5                                °C                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                                                        <li>
+                    <a
+                        href="/fr/meteo/semaine/champniers_france_3027064"
+                        title="Météo Champniers"                    >
+                        <div class="flag-and-city">
+                            <img
+                                class="country-flag"
+                                alt="fr"
+                                src="/assets/images/flags/fr.svg"
+                                loading="lazy"
+                            >
+                            Champniers                        </div>
+                        <div class="weather-pictogram-and-temperature">
+                            <img
+                                class="weather-pictogram"
+                                src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                alt="Partiellement nuageux"
+                                title="Partiellement nuageux"
+                            />
+                            <div class="temperature">
+                                12                                °C /
+                                8                                °C                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                                                        <li>
+                    <a
+                        href="/fr/meteo/semaine/glandon_france_3015852"
+                        title="Météo Glandon"                    >
+                        <div class="flag-and-city">
+                            <img
+                                class="country-flag"
+                                alt="fr"
+                                src="/assets/images/flags/fr.svg"
+                                loading="lazy"
+                            >
+                            Glandon                        </div>
+                        <div class="weather-pictogram-and-temperature">
+                            <img
+                                class="weather-pictogram"
+                                src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                alt="Partiellement nuageux"
+                                title="Partiellement nuageux"
+                            />
+                            <div class="temperature">
+                                11                                °C /
+                                5                                °C                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                                                        <li>
+                    <a
+                        href="/fr/meteo/semaine/saint-junien_france_2979036"
+                        title="Météo Saint-Junien"                    >
+                        <div class="flag-and-city">
+                            <img
+                                class="country-flag"
+                                alt="fr"
+                                src="/assets/images/flags/fr.svg"
+                                loading="lazy"
+                            >
+                            Saint-Junien                        </div>
+                        <div class="weather-pictogram-and-temperature">
+                            <img
+                                class="weather-pictogram"
+                                src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                alt="Partiellement nuageux"
+                                title="Partiellement nuageux"
+                            />
+                            <div class="temperature">
+                                11                                °C /
+                                6                                °C                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                                                        <li>
+                    <a
+                        href="/fr/meteo/semaine/soyaux_france_2973882"
+                        title="Météo Soyaux"                    >
+                        <div class="flag-and-city">
+                            <img
+                                class="country-flag"
+                                alt="fr"
+                                src="/assets/images/flags/fr.svg"
+                                loading="lazy"
+                            >
+                            Soyaux                        </div>
+                        <div class="weather-pictogram-and-temperature">
+                            <img
+                                class="weather-pictogram"
+                                src="https://static.meteoblue.com/assets/images/picto/03_iday.svg"
+                                alt="Partiellement nuageux"
+                                title="Partiellement nuageux"
+                            />
+                            <div class="temperature">
+                                12                                °C /
+                                8                                °C                            </div>
+                        </div>
+                    </a>
+                </li>
+                        </ul>
+</div>
+
+
+
+    <div class="col-12 crosslinks">
+        <h2>Plus de données météo</h2>
+        <div class="cross-grid">
+                                                <a rel="nofollow" class="cross-item" href="/fr/meteo/cartes/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763#map=windAnimation~rainbow~auto~10%20m%20above%20gnd~none" aria-label="Carte des vents">
+                        <img class="br-top" loading="lazy" src="https://static.meteoblue.com/assets/images/crosslinks/windmap.svg" alt="Carte des vents">
+                        <h3>Carte des vents</h3>
+                     </a>
+                                                <a rel="nofollow" class="cross-item" href="/fr/meteo/prevision/meteograms/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" aria-label="Météogrammes">
+                        <img class="br-top" loading="lazy" src="https://static.meteoblue.com/assets/images/crosslinks/meteograms.svg" alt="Météogrammes">
+                        <h3>Météogrammes</h3>
+                     </a>
+                                                <a rel="nofollow" class="cross-item" href="/fr/meteo/outdoorsports/where2go/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" aria-label="Où aller">
+                        <img class="br-top" loading="lazy" src="https://static.meteoblue.com/assets/images/crosslinks/where2go.svg" alt="Where to go">
+                        <h3>where2go</h3>
+                     </a>
+                                                <a rel="nofollow" class="cross-item" href="/fr/meteo/prevision/multimodel/a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763" aria-label="MultiModel">
+                        <img class="br-top" loading="lazy" src="https://static.meteoblue.com/assets/images/crosslinks/multimodel.svg" alt="MultiModel">
+                        <h3>MultiModel</h3>
+                     </a>
+                    </div>
+    </div>
+
+<script>
+
+    const inlineHelp = document.getElementById("inline_help");
+    const explanationBubble = document.getElementById("explanation_bubble");
+    
+    inlineHelp.addEventListener("mouseover", showIconHelp)
+    inlineHelp.addEventListener("mouseout", hideIconHelp)
+    
+    function showIconHelp(){
+        explanationBubble.style.display = "block";
+    }
+
+    function hideIconHelp(){
+        explanationBubble.style.display = "none";
+    }
+
+
+</script>                </div>
+            </main>
+            </div>
+</div>
+
+        
+
+    
+        <div id="to_top" class="to-top">
+            <div class="to-top-content">
+                <span class="fasvg-18 fa-angle-up-white"></span>
+                <span class="to-top-text">Retour vers le haut</span>
+            </div>
+        </div>
+
+        
+        <div class="footer-background">
+            <div class="wrapper  footer">
+                <div class="footer-group">
+                    <ul>
+                        <li>
+                            <a class="category" rel="nofollow" href="/fr/meteo/semaine/index">
+                                <span class="fasvg-25 fa-sun"></span>
+                                Prévisions météo                            </a>
+                            <ul>
+                                <li>
+                                    <a rel="nofollow" href="/fr/meteo/aujourd%27hui/index">Météo aujourd'hui</a>
+                                </li>
+                                <li>
+                                    <a rel="nofollow" href="/fr/meteo/cartes/index">Cartes météo</a>
+                                </li>
+                                <li>
+                                    <a href="//content.meteoblue.com/fr/business-solutions/plug-and-play-visuals/website-widgets" rel="nofollow">Widgets de site web</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a class="category" href="//content.meteoblue.com/fr/business-solutions/sectors" rel="nofollow">
+                                <span class="fasvg-25 fa-user-tie"></span>
+                                Solutions commerciales                            </a>
+                            <ul>
+                                <li>
+                                    <a href="//content.meteoblue.com/fr/business-solutions/weather-apis" rel="nofollow">Weather APIs</a>
+                                </li>
+                                <li>
+                                    <a href="//content.meteoblue.com/fr/business-solutions/meteo-climate-services/climate-services" rel="nofollow">Services climatiques</a>
+                                </li>
+                                <li>
+                                    <a href="//content.meteoblue.com/fr/business-solutions/sectors" rel="nofollow">
+                                        
+                                        Secteurs                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a class="category"
+                                href="//content.meteoblue.com/fr/private-customers" rel="nofollow">
+                                <span class="fasvg-25 fa-user"></span>
+                                Clients privés                            </a>
+                            <ul>
+                                <li>
+                                    <a href="//content.meteoblue.com/fr/private-customers/website-help" rel="nofollow">Aide du site web</a>
+                                </li>
+                                <li>
+                                    <a href="//content.meteoblue.com/fr/private-customers/website-subscriptions" rel="nofollow">Abonnements au site web</a>
+                                </li>
+                                <li>
+                                    <a href="//content.meteoblue.com/fr/private-customers/weather-apps" rel="nofollow">Applications météo</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a class="category" href="//content.meteoblue.com/fr/about-us/legal" rel="nofollow">
+                                <span class="fasvg-25 fa-scroll"></span>
+                                Documents Légaux                            </a>
+                            <ul>
+                                <li>
+                                    <a href="//content.meteoblue.com/fr/about-us/legal/terms-conditions" rel="nofollow">Termes et Conditions</a>
+                                </li>
+                                <li>
+                                    <a href="//content.meteoblue.com/fr/about-us/legal/privacy" rel="nofollow">Confidentialité</a>
+                                </li>
+                                <li>
+                                    <a href="//content.meteoblue.com/fr/about-us/legal/imprint" rel="nofollow">Mentions légales</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a class="category" href="//content.meteoblue.com/fr/about-us" rel="nofollow">
+                                <span class="fasvg-25 fa-user-card"></span>
+                                À propos de nous                            </a>
+                            <ul>
+                                <li>
+                                    <a href="//content.meteoblue.com/fr/about-us/references" rel="nofollow">Références</a>
+                                </li>
+                                <li>
+                                    <a href="//content.meteoblue.com/fr/about-us/career" rel="nofollow">Carrière</a>
+                                </li>
+                                <li>
+                                    <a href="//content.meteoblue.com/fr/about-us/contact" rel="nofollow">Contact</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer-misc">
+                    <a title="meteoblue" class="footer-logo" rel="nofollow" href="/fr/meteo/prevision/semaine" aria-label="Home"></a>
+                    <span>&copy; 2006 - 2024</span>
+                    <a rel="nofollow" href="https://static.meteoblue.com/assets/documents/meteoblue ag_CH12323283.e.pdf">ISO 9001 certificate</a>
+                                            <a
+                            href="#"
+                            onclick="
+                                event.preventDefault();
+                                googlefc.callbackQueue.push({'CONSENT_DATA_READY': () => googlefc.showRevocationMessage()});
+                            "
+                        >Paramètres de confidentialité</a>
+                                        <a rel="nofollow" href="/fr/user/contact/feedback">Feedback</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-quick">
+            <div class="wrapper ">
+                <div class="footer-social">
+                    <span class="follow-us-text">
+                        Suivez nous                        <!-- Suivez -->
+                    </span>
+                    <div class="social-links">
+                        <a href="https://www.facebook.com/meteoblue" target="_blank" rel="nofollow" aria-label="Suivez-nous sur Facebook">
+                            <span class="fasvg-28 fa-facebook-follow fa-fadein opacity04"></span>
+                        </a>
+                        <a href="https://twitter.com/meteoblue" target="_blank" rel="nofollow" aria-label="Suivez-nous sur Twitter">
+                            <span class="fasvg-28 fa-twitter-follow fa-fadein opacity02"></span>
+                        </a>
+                        <a href="https://www.linkedin.com/company/meteoblue-ag" target="_blank" rel="nofollow" aria-label="Suivez-nous sur LinkedIn">
+                            <span class="fasvg-28 fa-linkedin-follow fa-fadein opacity03"></span>
+                        </a>
+                        <a href="https://www.instagram.com/meteoblue" target="_blank" rel="nofollow" aria-label="Suivre sur Instagram">
+                            <span class="fasvg-28 fa-instagram-follow fa-fadein opacity03"></span>
+                        </a>
+                        <a href="https://www.youtube.com/channel/UCKXlXiuY4c9SW4k39C3Lbbw" target="_blank" rel="nofollow" aria-label="Suivre sur Youtube">
+                            <span class="fasvg-28 fa-youtube-follow fa-fadein opacity03"></span>
+                        </a>
+                    </div>
+                </div>
+                <a class="swiss-made-logo" href="//content.meteoblue.com/fr/about-us" rel="nofollow" target=”_blank” >
+                                            <img alt="Quality made in Switzerland - meteoblue - About us" style="width:100%;" src="https://static.meteoblue.com/assets/images/bottomLinks/swiss_made2.svg"/>
+                                    </a>
+                                    <div class="footer-options">
+                        <div id="print" class="print aslink">
+                            <span class="fasvg-18 fa-print"></span>
+                            <span>Imprimer cette page</span>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+    
+
+        
+        <script>
+    var mb = mb || {};
+    mb.security = mb.security || {};
+    mb.security.sessionToken = '';
+    mb.settings = mb.settings || {};
+    mb.settings.rev = 686;
+    mb.settings.revCss = 666;
+    mb.settings.cdnServer = 'https://static.meteoblue.com';
+    mb.settings.lang = 'fr';
+    mb.settings.locale = 'fr_FR';
+
+    mb.isLoggedIn =  false; 
+        mb.settings.loc = {
+        id: '6694763',
+        iso2: 'FR',
+        name: 'Aéroport international d&#039;Angoulême - Cognac',
+        lat: 45.729,
+        lon: 0.219,
+        url: 'a%c3%a9roport-international-d%27angoul%c3%aame---cognac_france_6694763',
+        timezoneName: 'Europe/Paris'
+    };
+    
+        mb.settings.utcOffset = '1';
+    mb.settings.timezone = 'CET';
+    
+        mb.settings.locationUrl = '/fr/meteo/semaine';
+    
+    mb.settings.homeUrl = '/fr/meteo/semaine/index';
+
+    mb.settings.environment = 'production';
+
+
+    
+    mb.translations = {"Delete {0} from the last visited list?":"Supprimer {0} de la liste des derniers visit\u00e9s ?","Delete {0} from the favourite list?":"Supprimer {0} de la liste des favoris ?","Loading":"Charger","10 m above gnd":"10m au dessus du sol","Position":"Position","Select layers":"S\u00e9lectionnez couches","obstemp":"Temp\u00e9ratures observ\u00e9es","obswind":"Vent observ\u00e9","Wind":"Vent","No matches":"Aucun r\u00e9sultat n'a \u00e9t\u00e9 trouv\u00e9 pour cette recherche","Favourites":"Favoris","Last visited":"D\u00e9j\u00e0 visit\u00e9s","add {0}":"Ajouter {0}","Previous":"Pr\u00e9c\u00e9dente","Next":"Prochaine","No results found for ":"Aucun r\u00e9sultat trouv\u00e9 pour ","Suggestions":"Suggestions","Use the geolocation button \u233e on the right of the search box.":"Utilisez le bouton de g\u00e9olocalisation \u233e \u00e0 droite de la bo\u00eete de recherche.","Select a location on the map.":"S\u00e9lectionnez un lieu sur la carte.","Search for a city, village or place of interest.":"Recherchez une ville, un village ou un lieu d'int\u00e9r\u00eat.","Make sure the location is spelled correctly.":"Assurez-vous que le lieu est bien orthographi\u00e9.","Try a more well-known location.":"Essayez un lieu plus connu.","Try fewer characters.":"Essayez d'utiliser moins de caract\u00e8res.","Try lat\/lon coordinates, for example: 47.561 7.593":"Essayez les coordonn\u00e9es en lat.\/long., par exemple : 47.561 7.593","Add to favourites":"Ajouter aux favoris","Search":"Rechercher","Distance":"Distance","m asl":"m s.n.m.","Lat.":"Lat.","Lon.":"Lon.","Region\/District":"R\u00e9gion\/Secteur","Weather for this place":"Temps pour ce lieu","Find nearby locations":"Trouver des lieux \u00e0 proximit\u00e9","Political":"Politique","Satellite":"Satellite","Terrain":"Terrain","Close":"Fermer","Time":"Heure","Domain":"Domaine","Last model run":"Derni\u00e8re mise \u00e0 jour","Map":"Carte","Location":"S\u00e9lection du lieu","Location search":"Recherche de lieu","January":"Janvier","February":"F\u00e9vrier","March":"Mars","April":"Avril","May":"Mai","June":"Juin","July":"Juillet","August":"Ao\u00fbt","September":"Septembre","November":"Novembre","December":"D\u00e9cembre","Monday":"Lundi","Tuesday":"Mardi","Wednesday":"Mercredi","Thursday":"Jeudi","Friday":"Vendredi","Saturday":"Samedi","Sunday":"Dimanche","Less":"Moins","More":"Plus","Fullscreen":"Plein \u00e9cran","Open":"Ouvert","Closed":"Ferm\u00e9","Easy":"Facile","Medium":"Moyenne","Difficult":"Difficile","Copied to clipboard!":"Copi\u00e9 dans le presse-papiers !"};
+</script>
+
+        <script async src="https://static.meteoblue.com/build/website.686/main.js"></script>
+
+        
+        
+        
+        <script>
+darkmodeAlreadySet = (document.cookie.match(/^(?:.*;)?\s*darkmode\s*=\s*([^;]+)(?:.*)?$/)||[,null])[1];
+
+if (darkmodeAlreadySet === null) {
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        const date = new Date();
+        date.setTime(date.getTime() + 365 * 24 * 60 * 60 * 1000);
+        document.cookie = 'darkmode=true; path = /; expires=' + date.toUTCString() + ';secure;samesite=Lax; ';
+
+        if (window.mb.settings.environment === 'production' && window.location.hostname === 'www.meteoblue.com'){
+            window.ga(['send', 'event', 'darkmode', 'automaticallySet']);
+        }
+    }
+}
+</script>
+
+
+            <script>
+        var width = window.innerWidth
+        || document.documentElement.clientWidth
+        || document.body.clientWidth;
+
+        if (width > 600) {
+            googletag.cmd.push(function () {
+                googletag.display(adSlot1);
+            });
+        } else {
+            googletag.cmd.push(function () {
+                googletag.display(anchorSlot);
+            });
+        }
+    </script>
+    <div class="unblock-div">
+    <div class="unblock-body">
+        <span class="close-drawer">×</span>
+        <div class="unblock-header">
+            
+            <div class="h1">Salut, <br> Il semble que vous utilisiez un logiciel antipub.</div>
+        </div>
+        <div class="unblock-text">
+            <p>La publicité est essentielle pour maintenir notre site web gratuit avec des détails et précision uniques.</p>
+            
+            <p>Veuillez <b>mettre www.meteoblue.com sur la liste blanche</b> de votre bloqueur de publicité ou envisager d'acheter l'un de nos produits :</p>
+        </div>
+        <div class="unblock-products">
+            <a class="btn btn-outline-secondary" href="/fr/ad-free">
+                                    Ad-free 9 €
+                            </a>
+            <a class="btn btn-outline-secondary" href="/fr/pointplus">
+                                    point+ 50 €
+                            </a>
+        </div>
+                    <div class="unblock-text">
+                
+                <p>Vous avez déjà un abonnement ? <br>Dans ce cas, veuillez <a href="/fr/user/login/index">vous connecter</a>.</p>   
+            </div>
+                <div class="unblock-footer">
+        </div>
+    </div>
+</div>
+    </body>
+</html>

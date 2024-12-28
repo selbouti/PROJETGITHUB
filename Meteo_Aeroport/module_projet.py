@@ -33,21 +33,25 @@ def recuperer_donnees_meteobleu(site_aeroport, number):
     Returns:
         dict: Dictionnaire contenant les données extraites.
     """
-    url = f"https://www.meteobleu.com/fr/meteo/semain/{site_aeroport}?day={number}"
-    soup = get_html_page(url)
-    if not soup:
-        return None
+    url = f"https://www.meteoblue.com/fr/meteo/semaine/{site_aeroport}?day={number}"
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
+    page_html = requests.get(url, headers=headers)
 
-    div = soup.find("div", id=f"day {number}")
+    if page_html.status_code==200:
+        soup = BeautifulSoup(page_html.text, 'html.parser')
+        section = page_html.text
+        
+
+    div = soup.find('div', id=f'day{number}')
+    tab = div.find_next('div', class_='tab-content')
     if div:
-        temperature_max = div.find(class_="tab-temps-max").get_text(strip=True) if div.find(class_="tab-temps-max") else None
-        temperature_min = div.find(class_="tab-temps-min").get_text(strip=True) if div.find(class_="tab-temps-min") else None
-        precipitation = div.find(class_="tab-precip").get_text(strip=True) if div.find(class_="tab-precip") else None
-        wind_div = div.find(class_="wind")
-        vent_vitesse = wind_div.find_all_next('div')[0].get_text(strip=True) if wind_div and wind_div.find_all_next('div') else None
-        vent_direction = wind_div.find('span').get_text(strip=True) if wind_div and wind_div.find('span') else None
-        ensoleillement = div.find(class_="tab-sun").get_text(strip=True) if div.find(class_="tab-sun") else None
-
+        temperature_max = tab.find('div', class_='tab-temp-max').get_text(strip=True) if tab.find('div',class_="tab-temp-max") else None
+        temperature_min = tab.find('div',class_="tab-temp-min").get_text(strip=True) if div.find('div',class_="tab-temp-min") else None
+        precipitation = tab.find('div',class_="tab-precip").get_text(strip=True) if div.find('div',class_="tab-precip") else None
+        wind_div = tab.find('div',class_="wind")
+        vent_vitesse = tab.find('div',class_="wind").get_text(strip=True) if wind_div and tab.find('div',class_="wind") else None
+        vent_direction = wind_div.find('span')['class'][2] if wind_div and wind_div.find('span')['class'][2] else None
+        ensoleillement = tab.find(class_="tab-sun").get_text(strip=True) if div.find(class_="tab-sun") else None
         return {
             "temperature_max": temperature_max,
             "temperature_min": temperature_min,
@@ -70,7 +74,7 @@ def recuperer_donnees_metar_taf(code_aeroport):
     Returns:
         dict: Dictionnaire contenant les données extraites.
     """
-    url = f"https://metar-taf.com/fr?c=465068.17139.6&hl={code_aeroport}"
+    url = f"https://metar-taf.com/fr/{code_aeroport}"
     soup = get_html_page(url)
     if not soup:
         return None

@@ -54,13 +54,13 @@ def recuperer_donnees_meteobleu(site_aeroport, number):
             "temperature_min": temperature_min.replace('\xa0', ' '),
             "precipitation": precipitation,
             "vent_vitesse": vent_vitesse,
-            "vent_direction": obtenir_direction_vent_meteobleu(vent_direction),
+            "vent_direction": direction_vent_meteobleu(vent_direction),
             "ensoleillement": ensoleillement
         }
     else:
         print(f"Div avec id=day {number} introuvable.")
         return None
-def obtenir_direction_vent_meteobleu(wind_direction):
+def direction_vent_meteobleu(wind_direction):
     # Dictionnaire des directions de vent
     directions = {
         "S": "Sud",
@@ -122,7 +122,7 @@ def recuperer_donnees_metar_taf(code_aeroport):
 
     return convertir_donnees_metar(data)
 
-def direction_du_vent(degrees):
+def direction_du_vent_metar(degrees):
     """
     Identifie la direction du vent en fonction de l'angle en degrés.
 
@@ -195,6 +195,6 @@ def convertir_donnees_metar(data):
     
     # Conversion de la direction du vent en texte lisible (Nord, Est, etc.)
     if data.get('wind_direction'):
-        data['wind_direction'] = direction_du_vent(float(data.get('wind_direction').replace('°', '').strip()))
+        data['wind_direction'] = direction_du_vent_metar(float(data.get('wind_direction').replace('°', '').strip()))
 
     return data

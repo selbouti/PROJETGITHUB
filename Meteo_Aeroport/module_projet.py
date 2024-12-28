@@ -15,7 +15,8 @@ def get_html_page(url):
         BeautifulSoup: Objet BeautifulSoup contenant le contenu HTML.
     """
     try:
-        response = requests.get(url)
+        entete = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
+        response = requests.get(url, headers=entete)
         response.raise_for_status()
         return BeautifulSoup(response.text, 'html.parser')
     except requests.exceptions.RequestException as e:
@@ -34,12 +35,8 @@ def recuperer_donnees_meteobleu(site_aeroport, number):
         dict: Dictionnaire contenant les données extraites.
     """
     url = f"https://www.meteoblue.com/fr/meteo/semaine/{site_aeroport}?day={number}"
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
-    page_html = requests.get(url, headers=headers)
-
-    if page_html.status_code==200:
-        soup = BeautifulSoup(page_html.text, 'html.parser')
-        section = page_html.text
+    
+    soup = get_html_page(url)
         
 
     div = soup.find('div', id=f'day{number}')
@@ -53,16 +50,31 @@ def recuperer_donnees_meteobleu(site_aeroport, number):
         vent_direction = wind_div.find('span')['class'][2] if wind_div and wind_div.find('span')['class'][2] else None
         ensoleillement = tab.find(class_="tab-sun").get_text(strip=True) if div.find(class_="tab-sun") else None
         return {
-            "temperature_max": temperature_max,
-            "temperature_min": temperature_min,
+            "temperature_max": temperature_max.replace('\xa0', ' '),
+            "temperature_min": temperature_min.replace('\xa0', ' '),
             "precipitation": precipitation,
             "vent_vitesse": vent_vitesse,
-            "vent_direction": vent_direction,
+            "vent_direction": obtenir_direction_vent_meteobleu(vent_direction),
             "ensoleillement": ensoleillement
         }
     else:
         print(f"Div avec id=day {number} introuvable.")
         return None
+def obtenir_direction_vent_meteobleu(wind_direction):
+    # Dictionnaire des directions de vent
+    directions = {
+        "S": "Sud",
+        "SW": "Sud-Ouest",
+        "W": "Ouest",
+        "NW": "Nord-Ouest",
+        "N": "Nord",
+        "NE": "Nord-Est",
+        "E": "Est",
+        "SE": "Sud-Est"
+    }
+    
+    # Retourner la direction complète à partir de l'abréviation
+    return directions.get(wind_direction, "Direction inconnue")
 
 def recuperer_donnees_metar_taf(code_aeroport):
     """
@@ -75,15 +87,14 @@ def recuperer_donnees_metar_taf(code_aeroport):
         dict: Dictionnaire contenant les données extraites.
     """
     url = f"https://metar-taf.com/fr/{code_aeroport}"
-    soup = get_html_page(url)
-    if not soup:
-        return None
 
+    soup = get_html_page(url)
+    
     data = {}
     metar_div = soup.find('div', id='metar')
     if metar_div:
         # Nom de l'aéroport
-        airport_name_match = re.search(r'<h1 class="h4 mb-0 test-ellipsis">(.+?)</h1>', str(metar_div))
+        airport_name_match =re.search(r'<h1 class="h4 mb-0 text-ellipsis">(.+?)</h1>', str(metar_div))
         data['airport_name'] = airport_name_match.group(1).strip() if airport_name_match else None
 
         # Température
@@ -95,17 +106,95 @@ def recuperer_donnees_metar_taf(code_aeroport):
         data['visibility'] = visibility_match.group(1).strip() if visibility_match else None
 
         # Vitesse et direction du vent
-        wind_speed_match = re.search(r'<h3 class="mb-0">(\d+ kt)</h3>', str(metar_div))
+        wind_speed_match = re.search(r'<h3 class="mb-0">\s*(\d+\s*kt)\s*</h3>', str(metar_div))
         wind_dir_match = re.search(r'(\d{3}\u00b0)', str(metar_div))
-        data['wind_speed'] = wind_speed_match.group(1).strip() if wind_speed_match else None
+        data['wind_speed'] = (wind_speed_match.group(1).strip()) if wind_speed_match else None
         data['wind_direction'] = wind_dir_match.group(1).strip() if wind_dir_match else None
 
         # Altitude des nuages
-        cloud_alt_match = re.search(r'<h3 class="mb-0">(\d+ ft)</h3>', str(metar_div))
+        cloud_alt_match = re.search(r'<h3 class="mb-0">s*(\d+(\.\d+)?)\s*ft\s*</h3>', str(metar_div))
         data['cloud_altitude'] = cloud_alt_match.group(1).strip() if cloud_alt_match else None
 
         # Pression atmosphérique
         pressure_match = re.search(r'<h3 class="mb-0">(\d+ hPa)</h3>', str(metar_div))
         data['pressure'] = pressure_match.group(1).strip() if pressure_match else None
+    
+
+    return convertir_donnees_metar(data)
+
+def direction_du_vent(degrees):
+    """
+    Identifie la direction du vent en fonction de l'angle en degrés.
+
+    Cette fonction prend un angle en degrés (compris entre 0 et 360) et retourne
+    la direction du vent correspondant à cet angle selon les directions cardinales
+    et intermédiaires.
+
+    Paramètres :
+    degrees (float) : L'angle en degrés mesuré par rapport au nord, compris entre 0 et 360.
+                      Par exemple, 0° correspond au Nord, 90° à l'Est, 180° au Sud, etc.
+
+    Retourne :
+    str : La direction du vent correspondante (par exemple, "Nord", "Sud-Ouest").
+          Si l'angle est invalide (en dehors de l'intervalle [0, 360]), la fonction retourne "Direction invalide".
+
+    Exemple :
+    >>> direction_du_vent(290)
+    'Ouest'
+    
+    >>> direction_du_vent(45)
+    'Nord-Est'
+    
+    >>> direction_du_vent(400)
+    'Direction invalide'
+    """
+    
+    # Créer une liste des intervalles de degrés correspondant aux directions cardinales
+    directions = [
+        (0, "Nord"),
+        (45, "Nord-Est"),
+        (90, "Est"),
+        (135, "Sud-Est"),
+        (180, "Sud"),
+        (225, "Sud-Ouest"),
+        (270, "Ouest"),
+        (315, "Nord-Ouest"),
+    ]
+    
+    # S'assurer que l'angle est dans l'intervalle [0, 360]
+    if degrees < 0 or degrees >= 360:
+        return "Direction invalide"
+
+    # Trouver la direction correspondant à l'angle
+    for i in range(len(directions) - 1):
+        if degrees >= directions[i][0] and degrees < directions[i + 1][0]:
+            return directions[i][1]
+    
+    # Si l'angle est supérieur ou égal à 315°, c'est le Nord
+    return directions[-1][1]
+
+def convertir_donnees_metar(data):
+    """
+    Convertit les unités des données météorologiques dans le dictionnaire `data` et 
+    met à jour ces valeurs avec les unités mondiales.
+
+    Paramètres :
+    data (dict) : Un dictionnaire contenant les données météorologiques avec les unités locales.
+
+    Retourne :
+    dict : Le dictionnaire mis à jour avec les données converties et les unités mondiales.
+    """
+
+    # Conversion de la vitesse du vent de nœuds (kt) en km/h
+    if data.get('wind_speed'):
+        data['wind_speed'] = str(float(data.get('wind_speed').replace('kt', '').strip()) * 1.852) + ' km/h'
+    
+    # Conversion de l'altitude des nuages de pieds (ft) en mètres
+    if data.get('cloud_altitude'):
+        data['cloud_altitude'] = str(float(data.get('cloud_altitude').replace('ft', '').strip()) * 0.3048) + ' m'
+    
+    # Conversion de la direction du vent en texte lisible (Nord, Est, etc.)
+    if data.get('wind_direction'):
+        data['wind_direction'] = direction_du_vent(float(data.get('wind_direction').replace('°', '').strip()))
 
     return data

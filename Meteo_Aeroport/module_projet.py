@@ -4,6 +4,19 @@ from bs4 import BeautifulSoup  # type: ignore # Pour analyser le contenu HTML
 import re  # Pour les expressions régulières
 from datetime import datetime  # Pour manipuler les dates
 import json
+from flask import Flask, render_template, jsonify
+
+app = Flask(__name__)
+
+# Route pour la page principale (HTML)
+@app.route('/')
+def index():
+    """Serve the main page"""
+    return render_template('index.html')
+
+# Route pour récupérer les données météo en format JSON
+@app.route('/Meteo_Aeroport/donnees_meteo_json', methods=['GET'])
+
 def get_html_page(url):
     """
     Récupère le contenu HTML d'une page web à partir de son URL.
@@ -199,7 +212,7 @@ def convertir_donnees_metar(data):
 
     return data
     
-    def exporter_donnees_en_json(data, nom_fichier):
+def exporter_donnees_en_json(data, nom_fichier):
     """
     Exporte les données dans le fichier JSON.
 

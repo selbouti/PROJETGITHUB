@@ -1,5 +1,5 @@
 // Charger les données depuis le fichier JSON
-fetch('donnees_meteo.json')
+fetch('../Meteo_Aeroport/donnees_meteo.json')
     .then(response => {
         if (!response.ok) {
             throw new Error(`Erreur HTTP : ${response.status}`);

@@ -3,7 +3,7 @@ import requests  # type: ignore # Pour faire des requêtes HTTP
 from bs4 import BeautifulSoup  # type: ignore # Pour analyser le contenu HTML
 import re  # Pour les expressions régulières
 from datetime import datetime  # Pour manipuler les dates
-
+import json
 def get_html_page(url):
     """
     Récupère le contenu HTML d'une page web à partir de son URL.
@@ -198,3 +198,18 @@ def convertir_donnees_metar(data):
         data['wind_direction'] = direction_du_vent_metar(float(data.get('wind_direction').replace('°', '').strip()))
 
     return data
+    
+    def exporter_donnees_en_json(data, nom_fichier):
+    """
+    Exporte les données dans le fichier JSON.
+
+    Args:
+        data (dict): Données météorologiques.
+        nom_fichier (str):  fichier JSON.
+    """
+    try:
+        with open(nom_fichier, 'w') as fichier:
+            json.dump(data, fichier, indent=4)
+        print(f"Données exportées dans {nom_fichier}")
+    except IOError as e:
+        print(f"Erreur lors de l'écriture du fichier JSON : {e}")

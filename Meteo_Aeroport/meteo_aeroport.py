@@ -1,7 +1,7 @@
 import argparse  # Pour gérer les arguments de la ligne de commande
 import json  # Pour manipuler les fichiers JSON
 from datetime import datetime
-from module_projet.py import recuperer_donnees_metar_taf, recuperer_donnees_meteobleu  
+from module_projet import recuperer_donnees_metar_taf, recuperer_donnees_meteobleu  
 
 def main():
     """
@@ -33,21 +33,21 @@ def main():
     metar_taf_data = recuperer_donnees_metar_taf(args.aeroport)
     
     # Récupérer les données de prévision météo
-    print(f"Récupération des données de prévision pour le jour {args.day}...")
-    meteobleu_data = recuperer_donnees_meteobleu(args.aeroport, args.day)
+   # print(f"Récupération des données de prévision pour le jour {args.day}...")
+   # meteobleu_data = recuperer_donnees_meteobleu(args.aeroport, args.day)
 
     # Fusionner les données METAR/TAF et prévisions
-    all_data = metar_taf_data if metar_taf_data else {}
-    if meteobleu_data:
-        all_data.update(meteobleu_data)
+   # all_data = metar_taf_data if metar_taf_data else {}
+   # if meteobleu_data:
+    #    all_data.update(meteobleu_data)
 
     # Ajouter la date et l'heure d'extraction
-    all_data['date_extraction'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    metar_taf_data['date_extraction'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     # Sauvegarder les données dans un fichier JSON
     print(f"Sauvegarde des données dans {args.output}...")
     with open(args.output, "w", encoding="utf-8") as json_file:
-        json.dump(all_data, json_file, ensure_ascii=False, indent=4)
+        json.dump(metar_taf_data, json_file, ensure_ascii=False, indent=4)
 
     print("Données extraites et sauvegardées avec succès.")
 

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Météo Aéroport</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Météo Aéroport</h1>
+        <h2>{{ metar_data.get('airport_name', 'Aéroport inconnu') }}</h2>
+    </header>
+    <main>
+        <!-- Section Actuelle -->
+        <section>
+            <h2>Conditions Actuelles</h2>
+            <p>Température : {{ metar_data.get('temperature', 'Inconnue') }}</p>
+            <p>Visibilité : {{ metar_data.get('visibility', 'Inconnue') }}</p>
+            <p>Vent : {{ metar_data.get('wind_speed', 'Inconnu') }}</p>
+            <p>Direction du vent : {{ metar_data.get('wind_direction', 'Inconnue') }}</p>
+            <p>Pression : {{ metar_data.get('pressure', 'Inconnue') }}</p>
+        </section>
+
+        <!-- Prévisions J+1 -->
+        <section>
+            <h2>Prévisions Demain</h2>
+            <p>Température Max : {{ meteo_bleu_j1.get('temperature_max', 'Inconnue') }}</p>
+            <p>Température Min : {{ meteo_bleu_j1.get('temperature_min', 'Inconnue') }}</p>
+            <p>Précipitations : {{ meteo_bleu_j1.get('precipitation', 'Inconnue') }}</p>
+            <p>Vent : {{ meteo_bleu_j1.get('vent_vitesse', 'Inconnu') }}</p>
+            <p>Direction du vent : {{ meteo_bleu_j1.get('vent_direction', 'Inconnue') }}</p>
+        </section>
+
+        <!-- Prévisions J+2 -->
+        <section>
+            <h2>Prévisions J+2</h2>
+            <p>Température Max : {{ meteo_bleu_j2.get('temperature_max', 'Inconnue') }}</p>
+            <p>Température Min : {{ meteo_bleu_j2.get('temperature_min', 'Inconnue') }}</p>
+            <p>Précipitations : {{ meteo_bleu_j2.get('precipitation', 'Inconnue') }}</p>
+            <p>Vent : {{ meteo_bleu_j2.get('vent_vitesse', 'Inconnu') }}</p>
+            <p>Direction du vent : {{ meteo_bleu_j2.get('vent_direction', 'Inconnue') }}</p>
+        </section>
+
+        <!-- Prévisions J+3 -->
+        <section>
+            <h2>Prévisions J+3</h2>
+            <p>Température Max : {{ meteo_bleu_j3.get('temperature_max', 'Inconnue') }}</p>
+            <p>Température Min : {{ meteo_bleu_j3.get('temperature_min', 'Inconnue') }}</p>
+            <p>Précipitations : {{ meteo_bleu_j3.get('precipitation', 'Inconnue') }}</p>
+            <p>Vent : {{ meteo_bleu_j3.get('vent_vitesse', 'Inconnu') }}</p>
+            <p>Direction du vent : {{ meteo_bleu_j3.get('vent_direction', 'Inconnue') }}</p>
+        </section>
+    </main>
+</body>
+</html>

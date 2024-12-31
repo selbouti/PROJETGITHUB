@@ -1,0 +1,10 @@
+{
+    "airport_name": "METAR LFJR · Aéroport d'Angers – Loire",
+    "temperature": "3 °C",
+    "visibility": null,
+    "wind_speed": "7.408 km/h",
+    "wind_direction": "Ouest",
+    "cloud_altitude": "0.39624000000000004 m",
+    "pressure": "1031 hPa",
+    "date_extraction": "2024-12-31 01:03:01"
+}

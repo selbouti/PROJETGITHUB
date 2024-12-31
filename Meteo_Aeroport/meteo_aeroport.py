@@ -2,7 +2,18 @@ import argparse  # Pour gérer les arguments de la ligne de commande
 import json  # Pour manipuler les fichiers JSON
 from datetime import datetime
 from module_projet import recuperer_donnees_metar_taf, recuperer_donnees_meteobleu  
+from flask import Flask, render_template, jsonify
 
+app = Flask(__name__)
+
+# Route pour la page principale (HTML)
+@app.route('/')
+def index():
+    """Serve the main page"""
+    return render_template('index.html')
+
+# Route pour récupérer les données météo en format JSON
+@app.route('/Meteo/donnees_meteo_json', methods=['GET'])
 def main():
     """
     Fonction principale qui gère l'exécution du script.

@@ -13,7 +13,7 @@ def index():
     return render_template('index.html')
 
 # Route pour récupérer les données météo en format JSON
-@app.route('/Meteo/donnees_meteo_json', methods=['GET'])
+@app.route('/Meteo_Aeroport/donnees_meteo.json', methods=['GET'])
 def main():
     """
     Fonction principale qui gère l'exécution du script.

@@ -1,5 +1,5 @@
 // Charger les données depuis le fichier JSON
-fetch('donnees_meteo_json')
+fetch('donnees_meteo.json')
     .then(response => {
         if (!response.ok) {
             throw new Error(`Erreur HTTP : ${response.status}`);
@@ -8,6 +8,7 @@ fetch('donnees_meteo_json')
     })
     .then(data => {
         // Injecter les données dans la page HTML
+        console.log(data)
         document.getElementById("airport_name").textContent = data.airport_name || "Non disponible";
         document.getElementById("temperature_max").textContent = data.temperature_max || "Non disponible";
         document.getElementById("temperature_min").textContent = data.temperature_min || "Non disponible";
@@ -24,6 +25,7 @@ fetch('donnees_meteo_json')
         document.getElementById("icone").textContent = data.icone || "Non disponible";
         
     })
+    
     .catch(error => {
         console.error('Erreur lors du chargement des données :', error);
     });

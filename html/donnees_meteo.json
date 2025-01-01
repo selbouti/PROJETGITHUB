@@ -1,0 +1,17 @@
+{
+    "airport_name": "METAR LFRN · Aéroport Rennes-Saint-Jacques Joseph Le Brix",
+    "temperature": "12 °C",
+    "visibility": null,
+    "wind_speed": null,
+    "wind_direction": "Sud",
+    "cloud_altitude": "0.42672 m",
+    "pressure": "1015 hPa",
+    "temperature_max": "8 °C",
+    "temperature_min": "4 °C",
+    "precipitation": "0-2 mm",
+    "vent_vitesse": "35-62",
+    "vent_direction": "Sud-Ouest",
+    "ensoleillement": "1 h",
+    "icone": "Partiellement nuageux",
+    "date_extraction": "2025-01-01 20:22:43"
+}

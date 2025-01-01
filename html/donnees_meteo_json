@@ -1,10 +1,17 @@
 {
-    "airport_name": "METAR LFJR · Aéroport d'Angers – Loire",
-    "temperature": "3 °C",
+    "airport_name": "METAR LFRN · Aéroport Rennes-Saint-Jacques Joseph Le Brix",
+    "temperature": "13 °C",
     "visibility": null,
-    "wind_speed": "7.408 km/h",
-    "wind_direction": "Ouest",
-    "cloud_altitude": "0.39624000000000004 m",
-    "pressure": "1031 hPa",
-    "date_extraction": "2024-12-31 01:03:01"
+    "wind_speed": null,
+    "wind_direction": "Sud",
+    "cloud_altitude": "0.6400800000000001 m",
+    "pressure": "1016 hPa",
+    "temperature_max": "8 °C",
+    "temperature_min": "-1 °C",
+    "precipitation": "-",
+    "vent_vitesse": "13 km/h",
+    "vent_direction": "Sud",
+    "ensoleillement": "4 h",
+    "icone": "Partiellement nuageux",
+    "date_extraction": "2025-01-01 16:48:08"
 }

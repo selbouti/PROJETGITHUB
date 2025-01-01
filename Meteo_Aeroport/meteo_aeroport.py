@@ -33,7 +33,7 @@ def main():
     )
     parser.add_argument(
         "-o", "--output",
-        default="../html/donnees_meteo_json",
+        default="../html/donnees_meteo.json",
         help="Nom du fichier de sortie pour les données extraites (par défaut: donnees_meteo.json)."
     )
 
@@ -45,7 +45,7 @@ def main():
     
     # Récupérer les données de prévision météo
     print(f"Récupération des données de prévision pour le jour {args.day}...")
-    argument_nom = args.aeroport.replace('-', '_')
+    argument_nom = 'aéroport-{args.aeroport.replace}_france_6269554'
     meteobleu_data = recuperer_donnees_meteobleu(argument_nom, args.day)
 
     # Fusionner les données METAR/TAF et prévisions

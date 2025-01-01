@@ -44,9 +44,9 @@ def main():
     metar_taf_data = recuperer_donnees_metar_taf(get_code_aeroport(args.aeroport))
     
     # Récupérer les données de prévision météo
-   # print(f"Récupération des données de prévision pour le jour {args.day}...")
-    
-   # meteobleu_data = recuperer_donnees_meteobleu(args.aeroport, args.day)
+    print(f"Récupération des données de prévision pour le jour {args.day}...")
+    argument_nom = args.aeroport.replace(' ', '_')
+    meteobleu_data = recuperer_donnees_meteobleu(argument_nom, args.day)
 
     # Fusionner les données METAR/TAF et prévisions
    # all_data = metar_taf_data if metar_taf_data else {}

@@ -6,10 +6,9 @@ body {
     background: linear-gradient(135deg, #f0f8ff, #e0efff);
     color: #333;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    justify-content: flex-start; /* Ajouté pour éviter l'alignement vertical centré */
     flex-direction: column;
+    height: 100%; /* Permet de s'assurer que le contenu remplit toute la page */
 }
 
 /* En-tête */
@@ -23,6 +22,7 @@ header {
     font-size: 2em;
     letter-spacing: 2px;
     text-transform: uppercase;
+    z-index: 10;
 }
 
 /* Contenu principal */
@@ -32,6 +32,7 @@ main {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    flex-grow: 1; /* Permet à main de prendre tout l'espace disponible */
 }
 
 /* Style pour la section des informations météorologiques */
@@ -44,6 +45,7 @@ main {
     justify-content: center;
 }
 
+/* Style pour les blocs d'information */
 .info {
     background-color: white;
     border-radius: 12px;
@@ -97,8 +99,7 @@ footer {
     text-align: center;
     padding: 15px;
     margin-top: 20px;
-    position: fixed;
-    bottom: 0;
+    position: relative; /* Modifié de fixed à relative */
     width: 100%;
     font-size: 0.9em;
     letter-spacing: 1px;

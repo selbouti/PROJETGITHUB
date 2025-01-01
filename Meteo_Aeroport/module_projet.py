@@ -200,6 +200,73 @@ def convertir_donnees_metar(data):
 
     return data
 
+def get_code_aeroport (name):
+    # Liste des aéroports en France et leurs codes OACI
+    aeroports = [
+        {"nom": "Paris-Charles-de-Gaulle", "code_oaci": "LFPG"},
+        {"nom": "Paris-Orly", "code_oaci": "LFPO"},
+        {"nom": "Lyon-Saint-Exupéry", "code_oaci": "LFLL"},
+        {"nom": "Marseille-Provence", "code_oaci": "LFML"},
+        {"nom": "Nice-Côte d'Azur", "code_oaci": "LFMN"},
+        {"nom": "Toulouse-Blagnac", "code_oaci": "LFBO"},
+        {"nom": "Bordeaux-Mérignac", "code_oaci": "LFBD"},
+        {"nom": "Nantes-Atlantique", "code_oaci": "LFRS"},
+        {"nom": "Strasbourg-Entzheim", "code_oaci": "LFST"},
+        {"nom": "Lille-Lesquin", "code_oaci": "LFQQ"},
+        {"nom": "Montpellier-Méditerranée", "code_oaci": "LFMT"},
+        {"nom": "Rennes-Saint-Jacques", "code_oaci": "LFRN"},
+        {"nom": "Bâle-Mulhouse (EuroAirport)", "code_oaci": "LFSB"},
+        {"nom": "Ajaccio-Napoléon-Bonaparte", "code_oaci": "LFKJ"},
+        {"nom": "Bastia-Poretta", "code_oaci": "LFKB"},
+        {"nom": "Figari-Sud-Corse", "code_oaci": "LFKF"},
+        {"nom": "Clermont-Ferrand Auvergne", "code_oaci": "LFLC"},
+        {"nom": "Pau-Pyrénées", "code_oaci": "LFBP"},
+        {"nom": "Perpignan-Rivesaltes", "code_oaci": "LFMP"},
+        {"nom": "Brest Bretagne", "code_oaci": "LFRB"},
+        {"nom": "Deauville-Normandie", "code_oaci": "LFRG"},
+        {"nom": "Limoges-Bellegarde", "code_oaci": "LFBL"},
+        {"nom": "Toulon-Hyères", "code_oaci": "LFTH"},
+        {"nom": "Lorient Bretagne Sud", "code_oaci": "LFRH"},
+        {"nom": "Grenoble Alpes Isère", "code_oaci": "LFLS"},
+        {"nom": "Caen-Carpiquet", "code_oaci": "LFRK"},
+        {"nom": "Le Havre-Octeville", "code_oaci": "LFOH"},
+        {"nom": "Angers-Loire", "code_oaci": "LFJR"},
+        {"nom": "Tours Val de Loire", "code_oaci": "LFOT"},
+        {"nom": "Metz-Nancy-Lorraine", "code_oaci": "LFJL"},
+        {"nom": "Dijon-Bourgogne", "code_oaci": "LFSD"},
+        {"nom": "Chambéry-Savoie", "code_oaci": "LFLB"},
+        {"nom": "Tarbes-Lourdes-Pyrénées", "code_oaci": "LFBT"},
+        {"nom": "La Rochelle-Île de Ré", "code_oaci": "LFBH"},
+        {"nom": "Poitiers-Biard", "code_oaci": "LFBI"},
+        {"nom": "Avignon-Provence", "code_oaci": "LFMV"},
+        {"nom": "Nîmes-Alès-Camargue-Cévennes", "code_oaci": "LFTW"},
+        {"nom": "Brive-Souillac", "code_oaci": "LFSL"},
+        {"nom": "Biarritz-Pays Basque", "code_oaci": "LFBZ"},
+        {"nom": "Calvi-Sainte-Catherine", "code_oaci": "LFKC"},
+        {"nom": "Agen-La Garenne", "code_oaci": "LFBA"},
+        {"nom": "Annecy Mont-Blanc", "code_oaci": "LFLP"},
+        {"nom": "Valence-Chabeuil", "code_oaci": "LFLU"},
+        {"nom": "Châteauroux-Centre", "code_oaci": "LFLX"},
+        {"nom": "Albi-Le Séquestre", "code_oaci": "LFCI"},
+        {"nom": "Vannes-Meucon", "code_oaci": "LFRV"},
+        {"nom": "Saint-Brieuc Armor", "code_oaci": "LFRT"},
+        {"nom": "Aéroport d'Épinal-Mirecourt", "code_oaci": "LFSG"},
+        {"nom": "Aurillac-Tronquières", "code_oaci": "LFLW"},
+        {"nom": "Bergerac Dordogne Périgord", "code_oaci": "LFBE"},
+        {"nom": "Dole-Jura", "code_oaci": "LFGJ"},
+        {"nom": "Châlons Vatry", "code_oaci": "LFOK"},
+        {"nom": "Carcassonne-Salvaza", "code_oaci": "LFMK"},
+        {"nom": "Castres-Mazamet", "code_oaci": "LFCK"},
+        {"nom": "Lannion-Côte de Granit", "code_oaci": "LFRO"},
+        {"nom": "Rodez-Aveyron", "code_oaci": "LFCR"},
+        {"nom": "Perigueux-Bassillac", "code_oaci": "LFBX"},
+        {"nom": "Troyes-Barberey", "code_oaci": "LFQB"}
+    ]
+    for aeroport in aeroports :
+        if aeroport ["nom"] == name
+            return aeroport["code_oaci"]
+    return None 
+
 def exporter_donnees_en_json(data, nom_fichier):
     """
     Exporte les données dans un fichier JSON.

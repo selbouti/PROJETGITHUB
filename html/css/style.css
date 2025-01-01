@@ -1,34 +1,38 @@
 /* Style global */
 body {
     font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
     background: linear-gradient(135deg, #f0f8ff, #e0efff);
     color: #333;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    
+    justify-content: flex-start; /* Ajouté pour éviter l'alignement vertical centré */
     flex-direction: column;
+    height: 100%; /* Permet de s'assurer que le contenu remplit toute la page */
 }
 
 /* En-tête */
 header {
     background-color: #007acc;
     color: white;
-    padding: 20px;
+    padding: 30px;
     text-align: center;
     width: 100%;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     font-size: 2em;
     letter-spacing: 2px;
     text-transform: uppercase;
-    position: relative;
+    z-index: 10;
 }
 
 /* Contenu principal */
 main {
-    padding: auto;
-    margin-bottom: auto;
-   
+    width: 80%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-grow: 1; /* Permet à main de prendre tout l'espace disponible */
 }
 
 /* Style pour la section des informations météorologiques */
@@ -41,6 +45,7 @@ main {
     justify-content: center;
 }
 
+/* Style pour les blocs d'information */
 .info {
     background-color: white;
     border-radius: 12px;
@@ -92,11 +97,9 @@ footer {
     background-color: #007acc;
     color: white;
     text-align: center;
-    height: auto;
-    padding: 10px;
-    margin-top: 15px;
-    position: relative;
-    bottom: 0;
+    padding: 15px;
+    margin-top: 20px;
+    position: relative; /* Modifié de fixed à relative */
     width: 100%;
     font-size: 0.9em;
     letter-spacing: 1px;

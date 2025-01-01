@@ -1,28 +1,26 @@
 /* Style global */
 body {
+    background-image:url(img/backgroud.jpg) ;
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(135deg, #f0f8ff, #e0efff);
     color: #333;
     display: flex;
-    justify-content: flex-start; /* Ajouté pour éviter l'alignement vertical centré */
     flex-direction: column;
-    height: 100%; /* Permet de s'assurer que le contenu remplit toute la page */
+    background-color: #007acc;
+    justify-content: center;
 }
 
 /* En-tête */
 header {
-    background-color: #007acc;
-    color: white;
-    padding: 30px;
+    background-color: white;
+    color: black;
     text-align: center;
     width: 100%;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    font-size: 2em;
+    font-size: 1em;
     letter-spacing: 2px;
     text-transform: uppercase;
-    z-index: 10;
 }
 
 /* Contenu principal */

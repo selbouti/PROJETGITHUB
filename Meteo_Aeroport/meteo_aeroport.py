@@ -33,7 +33,7 @@ def main():
     )
     parser.add_argument(
         "-o", "--output",
-        default="donnees_meteo.json",
+        default="../html/donnees_meteo_json",
         help="Nom du fichier de sortie pour les données extraites (par défaut: donnees_meteo.json)."
     )
 
@@ -45,21 +45,21 @@ def main():
     
     # Récupérer les données de prévision météo
     print(f"Récupération des données de prévision pour le jour {args.day}...")
-    argument_nom = args.aeroport.replace(' ', '_')
+    argument_nom = args.aeroport.replace('-', '_')
     meteobleu_data = recuperer_donnees_meteobleu(argument_nom, args.day)
 
     # Fusionner les données METAR/TAF et prévisions
-   # all_data = metar_taf_data if metar_taf_data else {}
-   # if meteobleu_data:
-    #    all_data.update(meteobleu_data)
+    all_data = metar_taf_data if metar_taf_data else {}
+    if meteobleu_data:
+        all_data.update(meteobleu_data)
 
     # Ajouter la date et l'heure d'extraction
-    metar_taf_data['date_extraction'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    all_data['date_extraction'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     # Sauvegarder les données dans un fichier JSON
     print(f"Sauvegarde des données dans {args.output}...")
     with open(args.output, "w", encoding="utf-8") as json_file:
-        json.dump(metar_taf_data, json_file, ensure_ascii=False, indent=4)
+        json.dump(all_data, json_file, ensure_ascii=False, indent=4)
 
     print("Données extraites et sauvegardées avec succès.")
 

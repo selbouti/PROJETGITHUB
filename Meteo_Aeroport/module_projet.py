@@ -50,13 +50,15 @@ def recuperer_donnees_meteobleu(site_aeroport, number):
         vent_vitesse = tab.find('div',class_="wind").get_text(strip=True) if wind_div and tab.find('div',class_="wind") else None
         vent_direction = wind_div.find('span')['class'][2] if wind_div and wind_div.find('span')['class'][2] else None
         ensoleillement = tab.find(class_="tab-sun").get_text(strip=True) if div.find(class_="tab-sun") else None
+        icone=tab.find('img')['alt']
         return {
             "temperature_max": temperature_max.replace('\xa0', ' '),
             "temperature_min": temperature_min.replace('\xa0', ' '),
             "precipitation": precipitation,
             "vent_vitesse": vent_vitesse,
             "vent_direction": direction_vent_meteobleu(vent_direction),
-            "ensoleillement": ensoleillement
+            "ensoleillement": ensoleillement,
+            "icone":icone,
         }
     else:
         print(f"Div avec id=day {number} introuvable.")
@@ -263,7 +265,7 @@ def get_code_aeroport (name):
         {"nom": "Troyes-Barberey", "code_oaci": "LFQB"}
     ]
     for aeroport in aeroports :
-        if aeroport ["nom"] == name
+        if aeroport ["nom"] == name :
             return aeroport["code_oaci"]
     return None 
 

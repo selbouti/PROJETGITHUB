@@ -13,8 +13,6 @@ fetch('donnees_meteo.json')
         document.getElementById("temperature_max").textContent = data.temperature_max || "Non disponible";
         document.getElementById("temperature_min").textContent = data.temperature_min || "Non disponible";
         document.getElementById("precipitation").textContent = data.precipitation || "Non disponible";
-        document.getElementById("vent_vitesse").textContent = data.vent_vitesse || "Non disponible";
-        document.getElementById("vent_direction").textContent = data.vent_direction || "Non disponible";
         document.getElementById("ensoleillement").textContent = data.ensoleillement || "Non disponible";
         document.getElementById("temperature").textContent = data.temperature || "Non disponible";
         document.getElementById("visibility").textContent = data.visibility || "Non disponible";
@@ -26,6 +24,4 @@ fetch('donnees_meteo.json')
         
     })
     
-    .catch(error => {
-        console.error('Erreur lors du chargement des données :', error);
-    });
+    

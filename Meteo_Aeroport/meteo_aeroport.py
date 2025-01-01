@@ -1,7 +1,7 @@
 import argparse  # Pour gérer les arguments de la ligne de commande
 import json  # Pour manipuler les fichiers JSON
 from datetime import datetime
-from module_projet import recuperer_donnees_metar_taf, recuperer_donnees_meteobleu  
+from module_projet import recuperer_donnees_metar_taf, recuperer_donnees_meteobleu, get_code_aeroport
 from flask import Flask, render_template, jsonify
 
 app = Flask(__name__)
@@ -41,10 +41,11 @@ def main():
 
     # Récupérer les données METAR et TAF
     print(f"Récupération des données METAR/TAF pour {args.aeroport}...")
-    metar_taf_data = recuperer_donnees_metar_taf(args.aeroport)
+    metar_taf_data = recuperer_donnees_metar_taf(get_code_aeroport(args.aeroport))
     
     # Récupérer les données de prévision météo
    # print(f"Récupération des données de prévision pour le jour {args.day}...")
+    
    # meteobleu_data = recuperer_donnees_meteobleu(args.aeroport, args.day)
 
     # Fusionner les données METAR/TAF et prévisions

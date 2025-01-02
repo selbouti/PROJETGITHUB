@@ -21,15 +21,3 @@ statistiques-connexions-apache/
 ├── nombres_total_requetes.py
 
 
-puis dans un fichier avec l'extension .rst (la code.rst)
-
-`Documentation du code
-*********************
-
-Exemple
-========================
-.. autofunction:: nom_fichier_python.fonction
-
-Extraction des navigateurs
-=========================
-.. autofunction:: extraction_navigateur.extraction_navigateur`

@@ -11,7 +11,7 @@ fetch('donnees_meteo.json')
         // Injecter les données dans la page HTML
         if (currentPage === "index.html") {
         console.log(data)
-        document.getElementById("airport_name").textContent = data["aujourd'hui"].airport_name || "Non disponible";
+        document.getElementById("airport_name").textContent = data["metar_taf"]["aujourd'hui"].airport_name || "Non disponible";
         document.getElementById("temperature_max").textContent = data["aujourd'hui"].temperature_max || "Non disponible";
         document.getElementById("temperature_min").textContent = data["aujourd'hui"].temperature_min || "Non disponible";
         document.getElementById("precipitation").textContent = data["aujourd'hui"].precipitation || "Non disponible";

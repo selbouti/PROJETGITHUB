@@ -1,30 +1,43 @@
 {
-    "aujourd'hui": {
-        "temperature_max": "13 °C",
-        "temperature_min": "1 °C",
-        "precipitation": "5-10 mm",
-        "vent_vitesse": "35-62",
-        "vent_direction": "Sud-Ouest",
-        "ensoleillement": "2 h",
-        "icone": "Partiellement nuageux avec des pluies occasionnelles"
+    "metar_taf": {
+        "aujourd'hui": {
+            "airport_name": "METAR LFRV · Aéroport de Vannes-Meucon",
+            "temperature": "13 °C",
+            "visibility": null,
+            "wind_speed": "16.668 km/h",
+            "wind_direction": "Direction invalide",
+            "cloud_altitude": null,
+            "pressure": "989 hPa"
+        }
     },
-    "demain": {
-        "temperature_max": "11 °C",
-        "temperature_min": "5 °C",
-        "precipitation": "5-10 mm",
-        "vent_vitesse": "46-89",
-        "vent_direction": "Sud-Ouest",
-        "ensoleillement": "1 h",
-        "icone": "Partiellement nuageux avec pluie"
+    "previsions": {
+        "aujourd'hui": {
+            "temperature_max": "13 °C",
+            "temperature_min": "1 °C",
+            "precipitation": "5-10 mm",
+            "vent_vitesse": "35-63",
+            "vent_direction": "Sud-Ouest",
+            "ensoleillement": "2 h",
+            "icone": "Partiellement nuageux avec des pluies occasionnelles"
+        },
+        "demain": {
+            "temperature_max": "12 °C",
+            "temperature_min": "5 °C",
+            "precipitation": "5-10 mm",
+            "vent_vitesse": "45-91",
+            "vent_direction": "Sud-Ouest",
+            "ensoleillement": "1 h",
+            "icone": "Partiellement nuageux avec pluie"
+        },
+        "surlendemain": {
+            "temperature_max": "5 °C",
+            "temperature_min": "3 °C",
+            "precipitation": "-",
+            "vent_vitesse": "30 km/h",
+            "vent_direction": "Sud-Ouest",
+            "ensoleillement": "2 h",
+            "icone": "Partiellement nuageux"
+        }
     },
-    "surlendemain": {
-        "temperature_max": "6 °C",
-        "temperature_min": "2 °C",
-        "precipitation": "-",
-        "vent_vitesse": "30 km/h",
-        "vent_direction": "Sud-Ouest",
-        "ensoleillement": "2 h",
-        "icone": "Partiellement nuageux"
-    },
-    "date_extraction": "2025-01-05 20:38:31"
+    "date_extraction": "2025-01-05 21:44:22"
 }

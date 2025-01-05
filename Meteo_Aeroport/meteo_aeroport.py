@@ -42,25 +42,28 @@ def main():
     # Récupérer les données METAR et TAF
     print(f"Récupération des données METAR/TAF pour {args.aeroport}...")
     metar_taf_data = recuperer_donnees_metar_taf(get_code_aeroport(args.aeroport))
-    all_data = metar_taf_data if metar_taf_data else {}
+    ancienne_data = {"aujourd'hui" : metar_taf_data} if metar_taf_data else {}
     # Récupérer les données de prévision météo
     print(f"Récupération des données de prévision pour le jour {args.day}...")
     argument_nom = 'aéroport-{args.aeroport}_france_6269554'
     
-   for day in range(0, 3):
+    meteobleu_data={}
+    for day in range(0, 3):
         
-        daily_data = recuperer_donnees_meteobleu(argument_nom, day)
+        daily_data = recuperer_donnees_meteobleu(argument_nom, day+1)
         if daily_data:
             meteobleu_data[f"jour_{day}"] = daily_data
 
     # Structure des données
-    all_data = {
-        "aujourd'hui": meteobleu_data.get("jour_0", {}),
+    nouvelle_data = {
+        "aujourd'hui": meteobleu_data.get("jour_0", {}) ,
         "demain": meteobleu_data.get("jour_1", {}),
         "surlendemain": meteobleu_data.get("jour_2", {}),
     }
     
-        
+    all_data=ancienne_data
+    all_data.update(nouvelle_data)
+
 
    
 

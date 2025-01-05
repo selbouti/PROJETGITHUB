@@ -46,12 +46,15 @@ def main():
     # Récupérer les données de prévision météo
     print(f"Récupération des données de prévision pour le jour {args.day}...")
     argument_nom = 'aéroport-{args.aeroport.replace}_france_6269554'
-    meteobleu_data = recuperer_donnees_meteobleu(argument_nom, args.day)
+    for i in range (1,1,4)
+        meteobleu_data = recuperer_donnees_meteobleu(argument_nom, i)
+         # Fusionner les données METAR/TAF et prévisions
+        all_data = metar_taf_data if metar_taf_data else {}
+        if meteobleu_data:
+            all_data.update(meteobleu_data)
+        
 
-    # Fusionner les données METAR/TAF et prévisions
-    all_data = metar_taf_data if metar_taf_data else {}
-    if meteobleu_data:
-        all_data.update(meteobleu_data)
+   
 
     # Ajouter la date et l'heure d'extraction
     all_data['date_extraction'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")

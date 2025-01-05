@@ -26,7 +26,7 @@ fetch('donnees_meteo.json')
         }
          else if (currentPage === "demain.html") {
         console.log(data)
-        document.getElementById("airport_name2").textContent = data["metar_taf"]["demain"].airport_name || "Non disponible";
+        document.getElementById("airport_name2").textContent = data["metar_taf"]["aujourd'hui"].airport_name || "Non disponible";
         document.getElementById("temperature_max2").textContent = data["previsions"]["demain"].temperature_max || "Non disponible";
         document.getElementById("temperature_min2").textContent = data["previsions"]["demain"].temperature_min || "Non disponible";
         document.getElementById("precipitation2").textContent = data["previsions"]["demain"].precipitation|| "Non disponible";
@@ -35,7 +35,7 @@ fetch('donnees_meteo.json')
         }
         else if (currentPage === "j2.html") {
         console.log(data)
-        document.getElementById("airport_name3").textContent = data["metar_taf"]["surlendemain"].airport_name|| "Non disponible";
+        document.getElementById("airport_name3").textContent = data["metar_taf"]["aujourd'hui"].airport_name|| "Non disponible";
         document.getElementById("temperature_max3").textContent = data["previsions"]["surlendemain"].temperature_max|| "Non disponible";
         document.getElementById("temperature_min3").textContent = data["previsions"]["surlendemain"].temperature_min|| "Non disponible";
         document.getElementById("precipitation3").textContent = data["previsions"]["surlendemain"].precipitation|| "Non disponible";

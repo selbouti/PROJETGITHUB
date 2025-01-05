@@ -42,16 +42,16 @@ def main():
     # Récupérer les données METAR et TAF
     print(f"Récupération des données METAR/TAF pour {args.aeroport}...")
     metar_taf_data = recuperer_donnees_metar_taf(get_code_aeroport(args.aeroport))
-    
+    all_data = metar_taf_data if metar_taf_data else {}
     # Récupérer les données de prévision météo
     print(f"Récupération des données de prévision pour le jour {args.day}...")
     argument_nom = 'aéroport-{args.aeroport.replace}_france_6269554'
-    for i in range (1,1,4)
-        meteobleu_data = recuperer_donnees_meteobleu(argument_nom, i)
-         # Fusionner les données METAR/TAF et prévisions
-        all_data = metar_taf_data if metar_taf_data else {}
-        if meteobleu_data:
+    
+    meteobleu_data = recuperer_donnees_meteobleu(argument_nom, 1) + recuperer_donnees_meteobleu(argument_nom, 2) + recuperer_donnees_meteobleu(argument_nom, 3)
+     # Fusionner les données METAR/TAF et prévisions
+    if meteobleu_data:
             all_data.update(meteobleu_data)
+    
         
 
    

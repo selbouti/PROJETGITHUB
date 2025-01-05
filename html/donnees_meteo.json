@@ -1,17 +1,30 @@
 {
-    "airport_name": "METAR LFRV · Aéroport de Vannes-Meucon",
-    "temperature": "12 °C",
-    "visibility": "9 km",
-    "wind_speed": "18.52 km/h",
-    "wind_direction": "Direction invalide",
-    "cloud_altitude": "1.2801600000000002 m",
-    "pressure": "990 hPa",
-    "temperature_max": "6 °C",
-    "temperature_min": "2 °C",
-    "precipitation": "-",
-    "vent_vitesse": "32 km/h",
-    "vent_direction": "Sud-Ouest",
-    "ensoleillement": "2 h",
-    "icone": "Partiellement nuageux",
-    "date_extraction": "2025-01-05 19:59:39"
+    "aujourd'hui": {
+        "temperature_max": "13 °C",
+        "temperature_min": "1 °C",
+        "precipitation": "5-10 mm",
+        "vent_vitesse": "35-62",
+        "vent_direction": "Sud-Ouest",
+        "ensoleillement": "2 h",
+        "icone": "Partiellement nuageux avec des pluies occasionnelles"
+    },
+    "demain": {
+        "temperature_max": "11 °C",
+        "temperature_min": "5 °C",
+        "precipitation": "5-10 mm",
+        "vent_vitesse": "46-89",
+        "vent_direction": "Sud-Ouest",
+        "ensoleillement": "1 h",
+        "icone": "Partiellement nuageux avec pluie"
+    },
+    "surlendemain": {
+        "temperature_max": "6 °C",
+        "temperature_min": "2 °C",
+        "precipitation": "-",
+        "vent_vitesse": "30 km/h",
+        "vent_direction": "Sud-Ouest",
+        "ensoleillement": "2 h",
+        "icone": "Partiellement nuageux"
+    },
+    "date_extraction": "2025-01-05 20:38:31"
 }

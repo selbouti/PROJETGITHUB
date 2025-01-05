@@ -61,8 +61,11 @@ def main():
         "surlendemain": meteobleu_data.get("jour_2", {}),
     }
     
-    all_data=ancienne_data
-    all_data.update(nouvelle_data)
+    all_data={
+        "metar_taf": ancienne_data,  # Ajout des données METAR/TAF
+        "previsions": nouvelle_data,  # Ajout des prévisions METEO
+    }
+    
 
 
    

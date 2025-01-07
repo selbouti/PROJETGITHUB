@@ -1,43 +1,43 @@
 {
     "metar_taf": {
         "aujourd'hui": {
-            "airport_name": "METAR LFRV · Aéroport de Vannes-Meucon",
-            "temperature": "3 °C",
+            "airport_name": "METAR LFOK · Aéroport de Châlons Vatry",
+            "temperature": "5 °C",
             "visibility": null,
-            "wind_speed": "7.408 km/h",
-            "wind_direction": "Sud-Ouest",
-            "cloud_altitude": null,
-            "pressure": "1004 hPa"
+            "wind_speed": "27.78 km/h",
+            "wind_direction": "Sud",
+            "cloud_altitude": "1.88976 m",
+            "pressure": "1006 hPa"
         }
     },
     "previsions": {
         "aujourd'hui": {
-            "temperature_max": "6 °C",
+            "temperature_max": "7 °C",
             "temperature_min": "3 °C",
             "precipitation": "-",
-            "vent_vitesse": "30 km/h",
+            "vent_vitesse": "29 km/h",
             "vent_direction": "Sud-Ouest",
             "ensoleillement": "3 h",
             "icone": "Partiellement nuageux"
         },
         "demain": {
-            "temperature_max": "11 °C",
+            "temperature_max": "9 °C",
             "temperature_min": "3 °C",
-            "precipitation": "10-20 mm",
-            "vent_vitesse": "27 km/h",
-            "vent_direction": "Sud-Ouest",
+            "precipitation": ">20 mm",
+            "vent_vitesse": "25 km/h",
+            "vent_direction": "Est",
             "ensoleillement": "0 h",
-            "icone": "Couvert avec pluie"
+            "icone": "Partiellement nuageux avec mélange de neige et de pluie"
         },
         "surlendemain": {
-            "temperature_max": "10 °C",
-            "temperature_min": "2 °C",
+            "temperature_max": "8 °C",
+            "temperature_min": "0 °C",
             "precipitation": "5-10 mm",
-            "vent_vitesse": "25 km/h",
+            "vent_vitesse": "23 km/h",
             "vent_direction": "Nord",
-            "ensoleillement": "3 h",
-            "icone": "Partiellement nuageux avec des pluies occasionnelles"
+            "ensoleillement": "4 h",
+            "icone": "Partiellement nuageux"
         }
     },
-    "date_extraction": "2025-01-07 00:22:14"
+    "date_extraction": "2025-01-07 11:01:02"
 }

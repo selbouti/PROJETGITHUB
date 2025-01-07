@@ -31,20 +31,20 @@ fetch('donnees_meteo.json')
         document.getElementById("temperature_min2").textContent = data["previsions"]["demain"].temperature_min || "Non disponible";
         document.getElementById("precipitation2").textContent = data["previsions"]["demain"].precipitation|| "Non disponible";
         document.getElementById("ensoleillement2").textContent = data["previsions"]["demain"].ensoleillement || "Non disponible";
-        document.getElementById("wind_speed2").textContent = ["previsions"]["demain"].vent_vitesse || "Non disponible";
+        document.getElementById("vitess_vent_demain").textContent = data["previsions"]["demain"].vent_vitesse || "Non disponible";
         document.getElementById("wind_direction2").textContent = data["previsions"]["demain"].vent_direction || "Non disponible";
-        document.getElementById("icone2").textContent = data["demain"].icone || "Non disponible";
+        document.getElementById("icone2").textContent = data["previsions"]["aujourd'hui"].icone || "Non disponible";
         }
         else if (currentPage === "j2.html") {
         console.log(data)
-        document.getElementById("airport_name3").textContent = data["aujourd'hui"].airport_name|| "Non disponible";
+        document.getElementById("airport_name3").textContent = data["metar_taf"]["aujourd'hui"].airport_name|| "Non disponible";
         document.getElementById("temperature_max3").textContent = data["previsions"]["surlendemain"].temperature_max|| "Non disponible";
         document.getElementById("temperature_min3").textContent = data["previsions"]["surlendemain"].temperature_min|| "Non disponible";
         document.getElementById("precipitation3").textContent = data["previsions"]["surlendemain"].precipitation|| "Non disponible";
         document.getElementById("ensoleillement3").textContent = data["previsions"]["surlendemain"].ensoleillement || "Non disponible";
         document.getElementById("wind_speed3").textContent = data["previsions"]["surlendemain"].vent_vitesse|| "Non disponible";
         document.getElementById("wind_direction3").textContent = data["previsions"]["surlendemain"].vent_direction|| "Non disponible";
-        document.getElementById("icone3").textContent = data["surlendemain"].icone|| "Non disponible";
+        document.getElementById("icone3").textContent = data["previsions"]["surlendemain"].icone|| "Non disponible";
         }
         
     })

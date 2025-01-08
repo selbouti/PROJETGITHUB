@@ -23,6 +23,8 @@ fetch('donnees_meteo.json')
             document.getElementById("cloud_altitude").textContent = data["metar_taf"]["aujourd'hui"].cloud_altitude || "Non disponible";
             document.getElementById("pressure").textContent = data["metar_taf"]["aujourd'hui"].pressure || "Non disponible";
             document.getElementById("icone").textContent = data["previsions"]["aujourd'hui"].icone || "Non disponible";
+            document.getElementById("Date").textContent = data.date_extraction || "Non disponible";
+
             }
          else if (currentPage === "demain.html") {
             console.log(data)
